@@ -14,10 +14,6 @@
         "name": "dlopen",
         "type": "module",
         "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-dlopen/master/module.json"
-    },{
-        "name": "vueport",
-        "type": "module",
-        "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-vueport/master/module.json"
     }],
     "minimumCoreVersion": "0.0.0",
     "compatibleCoreVersion": "1.0.0"
