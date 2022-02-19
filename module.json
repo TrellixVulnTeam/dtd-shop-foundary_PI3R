@@ -7,7 +7,9 @@
         "name": "DM Liquidity",
         "url": "https://DeathTrapDungeons.com"
     }],
-    "scripts": ["./dtd.js"],
+    "scripts": [
+		"./dtd.js"		
+	],
     "styles": [],
     "packs": [],
     "dependencies": [{
