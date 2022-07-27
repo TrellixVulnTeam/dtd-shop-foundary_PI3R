@@ -1,12 +1,14 @@
 {
     "name": "dtd-shop",
     "title": "dtd-shop",
-    "description": "Not to be used for real, Really...",
-    "version": "1.0",
+    "description": "https://deathtrapdungeons.com/#/merkals is now in Beta.",
+    "version": "1.6",
     "authors": [{
         "name": "DM Liquidity",
         "url": "https://DeathTrapDungeons.com"
     }],
+	"manifest" : "https://dtd-dnd-assets.s3.ap-southeast-2.amazonaws.com/dtd-shop-v3/module.json",
+	"download" : "https://dtd-dnd-assets.s3.ap-southeast-2.amazonaws.com/dtd-shop-v3/dtd-shop-foundary.zip",
     "scripts": [
 		"./dtd.js"		
 	],
@@ -17,6 +19,6 @@
         "type": "module",
         "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-dlopen/master/module.json"
     }],
-    "minimumCoreVersion": "0.0.0",
-    "compatibleCoreVersion": "1.0.0"
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9"
 }
