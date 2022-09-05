@@ -915,20 +915,6 @@ module.exports.f = function getOwnPropertyNames(it) {
 
 /***/ }),
 
-/***/ "05f5":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-
-/***/ }),
-
-/***/ "0664":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-
-/***/ }),
-
 /***/ "06cf":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1885,17 +1871,6 @@ exportTypedArrayMethod('sort', function sort(comparefn) {
 
 /***/ }),
 
-/***/ "21cf":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopInventory_vue_vue_type_style_index_0_id_e6144226_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("36c5");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopInventory_vue_vue_type_style_index_0_id_e6144226_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopInventory_vue_vue_type_style_index_0_id_e6144226_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
-
-
-/***/ }),
-
 /***/ "2266":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1957,17 +1932,6 @@ module.exports = function (iterable, unboundFunction, options) {
     if (typeof result == 'object' && result && result instanceof Result) return result;
   } return new Result(false);
 };
-
-
-/***/ }),
-
-/***/ "2331":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchases_vue_vue_type_style_index_0_id_05038dca_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("05f5");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchases_vue_vue_type_style_index_0_id_05038dca_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchases_vue_vue_type_style_index_0_id_05038dca_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
 
 
 /***/ }),
@@ -24038,13 +24002,6 @@ exportTypedArrayMethod('lastIndexOf', function lastIndexOf(searchElement /* , fr
 
 /***/ }),
 
-/***/ "32e4":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-
-/***/ }),
-
 /***/ "3410":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -39512,13 +39469,6 @@ module.exports = function (it) {
 
 /***/ }),
 
-/***/ "36c5":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-
-/***/ }),
-
 /***/ "37e8":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -42405,6 +42355,23 @@ var collectionStrong = __webpack_require__("6566");
 module.exports = collection('Map', function (init) {
   return function Map() { return init(this, arguments.length ? arguments[0] : undefined); };
 }, collectionStrong);
+
+
+/***/ }),
+
+/***/ "4fad":
+/***/ (function(module, exports, __webpack_require__) {
+
+var $ = __webpack_require__("23e7");
+var $entries = __webpack_require__("6f53").entries;
+
+// `Object.entries` method
+// https://tc39.es/ecma262/#sec-object.entries
+$({ target: 'Object', stat: true }, {
+  entries: function entries(O) {
+    return $entries(O);
+  }
+});
 
 
 /***/ }),
@@ -45642,6 +45609,13 @@ var IS_NOT_ARRAY_METHOD = Uint8ArrayPrototype.toString != arrayToString;
 // https://tc39.es/ecma262/#sec-%typedarray%.prototype.tostring
 exportTypedArrayMethod('toString', arrayToString, IS_NOT_ARRAY_METHOD);
 
+
+/***/ }),
+
+/***/ "7317":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
 
 /***/ }),
 
@@ -49475,17 +49449,6 @@ exportTypedArrayMethod('includes', function includes(searchElement /* , fromInde
 
 /***/ }),
 
-/***/ "836f":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopItemDescription_vue_vue_type_style_index_0_id_50cb4c8d_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("0664");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopItemDescription_vue_vue_type_style_index_0_id_50cb4c8d_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopItemDescription_vue_vue_type_style_index_0_id_50cb4c8d_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
-
-
-/***/ }),
-
 /***/ "83ab":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -49514,6 +49477,17 @@ module.exports = function (object, key, value) {
   if (propertyKey in object) definePropertyModule.f(object, propertyKey, createPropertyDescriptor(0, value));
   else object[propertyKey] = value;
 };
+
+
+/***/ }),
+
+/***/ "84ff":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopInventory_vue_vue_type_style_index_0_id_48e79e1e_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("7317");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopInventory_vue_vue_type_style_index_0_id_48e79e1e_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopInventory_vue_vue_type_style_index_0_id_48e79e1e_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
 
 
 /***/ }),
@@ -49818,6 +49792,28 @@ module.exports = !NATIVE_ARRAY_BUFFER_VIEWS || !fails(function () {
 /***/ (function(module, exports) {
 
 module.exports = __WEBPACK_EXTERNAL_MODULE__8bbf__;
+
+/***/ }),
+
+/***/ "8cda":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopItemDescription_vue_vue_type_style_index_0_id_2c6eea11_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("b793");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopItemDescription_vue_vue_type_style_index_0_id_2c6eea11_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopItemDescription_vue_vue_type_style_index_0_id_2c6eea11_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+
+
+/***/ }),
+
+/***/ "8ddc":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchaseFooterBlock_vue_vue_type_style_index_0_id_3c062d54_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("f1f1");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchaseFooterBlock_vue_vue_type_style_index_0_id_3c062d54_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchaseFooterBlock_vue_vue_type_style_index_0_id_3c062d54_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+
 
 /***/ }),
 
@@ -51695,17 +51691,6 @@ module.exports = flattenIntoArray;
 
 /***/ }),
 
-/***/ "a3e7":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchaseFooterBlock_vue_vue_type_style_index_0_id_3f83c4ac_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("32e4");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchaseFooterBlock_vue_vue_type_style_index_0_id_3f83c4ac_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchaseFooterBlock_vue_vue_type_style_index_0_id_3f83c4ac_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
-
-
-/***/ }),
-
 /***/ "a434":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -52762,6 +52747,13 @@ module.exports = {
 
 /***/ }),
 
+/***/ "aed0":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+
+/***/ }),
+
 /***/ "af03":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -53272,6 +53264,24 @@ module.exports = {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HOOK_SETUP; });
 const HOOK_SETUP = 'devtools-plugin:setup';
+
+
+/***/ }),
+
+/***/ "b793":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+
+/***/ }),
+
+/***/ "bace":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchases_vue_vue_type_style_index_0_id_b476a42c_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("aed0");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchases_vue_vue_type_style_index_0_id_b476a42c_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_v16_dist_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_vue_cli_plugin_quasar_lib_loader_vue_auto_import_quasar_js_ref_0_0_node_modules_cache_loader_dist_cjs_js_ref_0_1_node_modules_vue_loader_v16_dist_index_js_ref_0_2_MagicShopPurchases_vue_vue_type_style_index_0_id_b476a42c_scoped_true_lang_scss__WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
 
 
 /***/ }),
@@ -77719,6 +77729,13 @@ hiddenKeys[METADATA] = true;
 
 /***/ }),
 
+/***/ "f1f1":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+
+/***/ }),
+
 /***/ "f44b":
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -78786,7 +78803,7 @@ function prop(options) {
 
 
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShop.vue?vue&type=template&id=5f2f5e7c&ts=true
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShop.vue?vue&type=template&id=1cc884a3&ts=true
 
 var _hoisted_1 = {
   class: "row items-top justify-evenly",
@@ -78795,7 +78812,7 @@ var _hoisted_1 = {
     "overflow-y": "hidden"
   }
 };
-function MagicShopvue_type_template_id_5f2f5e7c_ts_true_render(_ctx, _cache, $props, $setup, $data, $options) {
+function MagicShopvue_type_template_id_1cc884a3_ts_true_render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_MagicShopInventory = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("MagicShopInventory");
 
   var _component_MagicShopPurchases = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("MagicShopPurchases");
@@ -78816,7 +78833,25 @@ function MagicShopvue_type_template_id_5f2f5e7c_ts_true_render(_ctx, _cache, $pr
     }
   })]);
 }
-// CONCATENATED MODULE: ./src/components/MagicShop.vue?vue&type=template&id=5f2f5e7c&ts=true
+// CONCATENATED MODULE: ./src/components/MagicShop.vue?vue&type=template&id=1cc884a3&ts=true
+
+// CONCATENATED MODULE: ./node_modules/@babel/runtime/helpers/esm/defineProperty.js
+function defineProperty_defineProperty(obj, key, value) {
+  if (key in obj) {
+    Object.defineProperty(obj, key, {
+      value: value,
+      enumerable: true,
+      configurable: true,
+      writable: true
+    });
+  } else {
+    obj[key] = value;
+  }
+
+  return obj;
+}
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.concat.js
+var es_array_concat = __webpack_require__("99af");
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.function.name.js
 var es_function_name = __webpack_require__("b0c0");
@@ -78827,17 +78862,17 @@ var es_object_to_string = __webpack_require__("d3b7");
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.regexp.to-string.js
 var es_regexp_to_string = __webpack_require__("25f0");
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopInventory.vue?vue&type=template&id=e6144226&scoped=true&ts=true
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopInventory.vue?vue&type=template&id=48e79e1e&scoped=true&ts=true
 
 
 
 
 
-var MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_withScopeId = function _withScopeId(n) {
-  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["pushScopeId"])("data-v-e6144226"), n = n(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["popScopeId"])(), n;
+var MagicShopInventoryvue_type_template_id_48e79e1e_scoped_true_ts_true_withScopeId = function _withScopeId(n) {
+  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["pushScopeId"])("data-v-48e79e1e"), n = n(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["popScopeId"])(), n;
 };
 
-var MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_hoisted_1 = {
+var MagicShopInventoryvue_type_template_id_48e79e1e_scoped_true_ts_true_hoisted_1 = {
   id: "shopInvContainer",
   style: {
     "height": "100%",
@@ -78852,75 +78887,72 @@ var _hoisted_3 = {
   class: "col-2 justify-between"
 };
 var _hoisted_4 = {
-  class: "col-1 no-wrap justify-between"
-};
-var _hoisted_5 = {
-  key: 0,
-  class: "row items-center text-grey-8 q-gutter-xs"
+  class: "row no-wrap justify-center items-center bg-grey-10 text-white",
+  style: {
+    "padding": "10px 0px 0px"
+  }
 };
 
-var _hoisted_6 = /*#__PURE__*/Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createTextVNode"])(" Add Inventory ");
+var _hoisted_5 = /*#__PURE__*/Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createTextVNode"])(" DMG Pricing ");
 
-var _hoisted_7 = {
+var _hoisted_6 = {
   class: "col-auto"
 };
-var _hoisted_8 = {
+var _hoisted_7 = {
   class: "column items-center col-1"
 };
-var _hoisted_9 = {
+var _hoisted_8 = {
   class: "col-9"
 };
-var _hoisted_10 = {
+var _hoisted_9 = {
   class: "row justify-between"
+};
+var _hoisted_10 = {
+  class: "text-weight-medium"
 };
 var _hoisted_11 = {
-  class: "text-weight-medium"
-};
-var _hoisted_12 = {
   class: "col"
 };
-var _hoisted_13 = {
+var _hoisted_12 = {
   class: "text-grey-8 col column justify-around"
 };
-var _hoisted_14 = {
+var _hoisted_13 = {
   class: "column no-wrap justify-around items-center"
 };
-var _hoisted_15 = {
+var _hoisted_14 = {
   class: "no-wrap text-yellow-4"
 };
-var _hoisted_16 = {
+var _hoisted_15 = {
   class: "no-wrap text-blue-4"
 };
-var _hoisted_17 = {
+var _hoisted_16 = {
   class: "column items-center col-1"
 };
-var _hoisted_18 = {
+var _hoisted_17 = {
   class: "col-6"
 };
-var _hoisted_19 = {
+var _hoisted_18 = {
   class: "row justify-between"
 };
-var _hoisted_20 = {
+var _hoisted_19 = {
   class: "text-weight-medium"
 };
-var _hoisted_21 = {
+var _hoisted_20 = {
   class: "col-3"
 };
-var _hoisted_22 = {
+var _hoisted_21 = {
   class: "row justify-between"
 };
-function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_render(_ctx, _cache, $props, $setup, $data, $options) {
-  var _this = this;
-
+function MagicShopInventoryvue_type_template_id_48e79e1e_scoped_true_ts_true_render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_MagicShopInputSelector = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("MagicShopInputSelector");
+
+  var _component_q_tooltip = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-tooltip");
+
+  var _component_q_toggle = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-toggle");
 
   var _component_q_tab = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-tab");
 
   var _component_q_tabs = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-tabs");
-
-  var _component_q_tooltip = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-tooltip");
-
-  var _component_q_btn = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-btn");
 
   var _component_q_icon = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-icon");
 
@@ -78932,6 +78964,8 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
 
   var _component_q_chip = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-chip");
 
+  var _component_q_btn = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-btn");
+
   var _component_q_separator = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-separator");
 
   var _component_q_virtual_scroll = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-virtual-scroll");
@@ -78942,11 +78976,33 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
 
   var _component_q_tab_panels = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-tab-panels");
 
-  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_hoisted_1, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_2, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_3, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_MagicShopInputSelector)]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_tabs, {
-    modelValue: _ctx.tab,
+  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", MagicShopInventoryvue_type_template_id_48e79e1e_scoped_true_ts_true_hoisted_1, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_2, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_3, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_MagicShopInputSelector)]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_4, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_toggle, {
+    class: "no-wrap justify-center items-center",
+    color: "green",
+    dark: "",
+    dense: "",
+    modelValue: _ctx.UseDMGPricing,
     "onUpdate:modelValue": _cache[0] || (_cache[0] = function ($event) {
+      return _ctx.UseDMGPricing = $event;
+    }),
+    "left-label": "",
+    label: "DMG Pricing"
+  }, {
+    default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
+      return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_tooltip, null, {
+        default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
+          return [_hoisted_5];
+        }),
+        _: 1
+      })];
+    }),
+    _: 1
+  }, 8, ["modelValue"])]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_tabs, {
+    modelValue: _ctx.tab,
+    "onUpdate:modelValue": _cache[1] || (_cache[1] = function ($event) {
       return _ctx.tab = $event;
     }),
+    update: _ctx.tabChanged(),
     "inline-label": "",
     class: "text-teal",
     style: {
@@ -78962,12 +79018,12 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
         label: "Merkals Inventory."
       }), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_tab, {
         name: _ctx.shopName,
-        icon: "sell",
+        icon: "backpack",
         label: _ctx.shopName
       }, null, 8, ["name", "label"])];
     }),
     _: 1
-  }, 8, ["modelValue"]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_tab_panels, {
+  }, 8, ["modelValue", "update"]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_tab_panels, {
     class: "col-12",
     style: {
       "padding": "0px",
@@ -78985,7 +79041,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
         class: "items-center",
         style: {
           "height": "100%",
-          "width": "99%",
+          "width": "98%",
           "padding": "5px",
           "padding-bottom": "15px"
         },
@@ -78993,37 +79049,11 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
         name: "Merkals Inventory"
       }, {
         default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
-          return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_4, [_ctx.isLoggedIn && _ctx.profile.admin ? (Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", _hoisted_5, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_btn, {
-            class: "gt-xs",
-            style: {
-              "margin-left": "10px"
-            },
-            hint: "Reach",
-            onClick: _cache[1] || (_cache[1] = function ($event) {
-              return _ctx.onAddInventoryClick();
-            }),
-            color: "green",
-            size: "18px",
-            fab: "",
-            outline: "",
-            dense: "",
-            round: "",
-            icon: "add"
-          }, {
-            default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
-              return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_tooltip, null, {
-                default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
-                  return [_hoisted_6];
-                }),
-                _: 1
-              })];
-            }),
-            _: 1
-          })])) : Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createCommentVNode"])("", true)]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_7, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_virtual_scroll, {
+          return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_6, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_virtual_scroll, {
             dark: "",
             style: {
               "overflow-x": "hidden",
-              "height": "550px"
+              "height": "650px"
             },
             items: _ctx.filteredEquipment,
             class: "dtd-thin-scrollbar"
@@ -79034,18 +79064,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
               return [(Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", {
                 class: "row",
                 key: item.tag
-              }, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_8, [_ctx.isLoggedIn && _ctx.profile.admin ? (Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createBlock"])(_component_q_btn, {
-                key: 0,
-                onClick: function onClick($event) {
-                  return _ctx.onEquipmentEditClick(item);
-                },
-                color: "green",
-                fab: "",
-                outline: "",
-                dense: "",
-                round: "",
-                icon: "edit"
-              }, null, 8, ["onClick"])) : Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createCommentVNode"])("", true), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_section, {
+              }, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_7, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_section, {
                 avatar: ""
               }, {
                 default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
@@ -79056,7 +79075,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
                   }, null, 8, ["name"])];
                 }),
                 _: 2
-              }, 1024)]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_9, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item, {
+              }, 1024)]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_8, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item, {
                 clickable: "",
                 onClick: function onClick($event) {
                   return _ctx.onSelectEquipmentClick(item);
@@ -79067,12 +79086,12 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
                     top: ""
                   }, {
                     default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
-                      return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_10, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_label, {
+                      return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_9, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_label, {
                         class: "row text-yellow-4 col",
                         lines: "1"
                       }, {
                         default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
-                          return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("span", _hoisted_11, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])(item.name), 1)];
+                          return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("span", _hoisted_10, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])(item.name), 1)];
                         }),
                         _: 2
                       }, 1024)]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_label, {
@@ -79094,7 +79113,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
                 class: "text-grey-8"
               }, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item, null, {
                 default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
-                  return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_12, [(Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(true), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])(external_commonjs_vue_commonjs2_vue_root_Vue_["Fragment"], null, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["renderList"])(item.tags, function (tag) {
+                  return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_11, [(Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(true), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])(external_commonjs_vue_commonjs2_vue_root_Vue_["Fragment"], null, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["renderList"])(item.tags, function (tag) {
                     return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createBlock"])(_component_q_chip, {
                       key: tag,
                       dense: "",
@@ -79113,7 +79132,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
               }, 1024)]))]), (Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", {
                 key: item.tag + index.toString() + 'div2',
                 class: "col column"
-              }, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_13, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_14, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("span", _hoisted_15, " Buy " + Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])(_ctx.itemBuyValues(item)), 1), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_btn, {
+              }, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_12, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_13, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("span", _hoisted_14, " Buy " + Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])(_ctx.itemBuyValues(item)), 1), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_btn, {
                 class: "gt-xs dtd-buy",
                 style: {
                   "margin-bottom": "10px"
@@ -79129,7 +79148,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
                 outline: "",
                 dense: "",
                 round: ""
-              }, null, 8, ["onClick"]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("span", _hoisted_16, " Sell " + Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])(_ctx.itemSellValues(item)), 1), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_btn, {
+              }, null, 8, ["onClick"]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("span", _hoisted_15, " Sell " + Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])(_ctx.itemSellValues(item)), 1), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_btn, {
                 class: "gt-xs dtd-sell",
                 style: {
                   "margin-bottom": "10px"
@@ -79188,7 +79207,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
                   return [(Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", {
                     class: "row",
                     key: item.tag
-                  }, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_17, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_section, {
+                  }, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_16, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_section, {
                     avatar: ""
                   }, {
                     default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
@@ -79199,7 +79218,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
                       }, null, 8, ["name"])];
                     }),
                     _: 2
-                  }, 1024)]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_18, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item, {
+                  }, 1024)]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_17, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item, {
                     clickable: "",
                     onClick: function onClick($event) {
                       return _ctx.onSelectEquipmentClick(item);
@@ -79208,12 +79227,12 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
                     default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
                       return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_section, null, {
                         default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
-                          return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_19, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_label, {
+                          return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_18, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_label, {
                             class: "row text-yellow-4 col",
                             lines: "1"
                           }, {
                             default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
-                              return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("span", _hoisted_20, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])(item.qty + 'x ' + item.name), 1)];
+                              return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("span", _hoisted_19, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])(item.qty + 'x ' + item.name), 1)];
                             }),
                             _: 2
                           }, 1024)])];
@@ -79222,7 +79241,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
                       }, 1024)];
                     }),
                     _: 2
-                  }, 1032, ["onClick"])]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_21, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item, {
+                  }, 1032, ["onClick"])]), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_20, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item, {
                     clickable: "",
                     onClick: function onClick($event) {
                       return _ctx.onSelectEquipmentClick(item);
@@ -79231,7 +79250,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
                     default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
                       return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_section, null, {
                         default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
-                          return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_22, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_label, {
+                          return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", _hoisted_21, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_item_label, {
                             class: "row text-blue-4 col",
                             lines: "1"
                           }, {
@@ -79248,7 +79267,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
                   }, 1032, ["onClick"])]), (Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", {
                     key: item.tag + index.toString() + 'div2',
                     class: "text-grey-8 col column justify-around items-center"
-                  }, [_this.isSellable(item) ? (Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createBlock"])(_component_q_btn, {
+                  }, [_ctx.isSellable(item) ? (Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createBlock"])(_component_q_btn, {
                     key: 0,
                     class: "gt-xs dtd-sell",
                     style: {
@@ -79282,7 +79301,7 @@ function MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_ren
     _: 1
   }, 8, ["modelValue"])])]);
 }
-// CONCATENATED MODULE: ./src/components/MagicShopInventory.vue?vue&type=template&id=e6144226&scoped=true&ts=true
+// CONCATENATED MODULE: ./src/components/MagicShopInventory.vue?vue&type=template&id=48e79e1e&scoped=true&ts=true
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.promise.js
 var es_promise = __webpack_require__("e6cf");
@@ -79326,26 +79345,14 @@ function _asyncToGenerator(fn) {
     });
   };
 }
-// CONCATENATED MODULE: ./node_modules/@babel/runtime/helpers/esm/defineProperty.js
-function defineProperty_defineProperty(obj, key, value) {
-  if (key in obj) {
-    Object.defineProperty(obj, key, {
-      value: value,
-      enumerable: true,
-      configurable: true,
-      writable: true
-    });
-  } else {
-    obj[key] = value;
-  }
-
-  return obj;
-}
 // EXTERNAL MODULE: ./node_modules/regenerator-runtime/runtime.js
 var runtime = __webpack_require__("96cf");
 
-// EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.concat.js
-var es_array_concat = __webpack_require__("99af");
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.includes.js
+var es_array_includes = __webpack_require__("caad");
+
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.string.includes.js
+var es_string_includes = __webpack_require__("2532");
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.regexp.exec.js
 var es_regexp_exec = __webpack_require__("ac1f");
@@ -81132,12 +81139,6 @@ var es_string_split = __webpack_require__("1276");
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.string.trim.js
 var es_string_trim = __webpack_require__("498a");
-
-// EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.includes.js
-var es_array_includes = __webpack_require__("caad");
-
-// EXTERNAL MODULE: ./node_modules/core-js/modules/es.string.includes.js
-var es_string_includes = __webpack_require__("2532");
 
 // CONCATENATED MODULE: ./node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js
 function arrayLikeToArray_arrayLikeToArray(arr, len) {
@@ -90825,6 +90826,281 @@ var fieldPropsList = Object.keys(useFieldProps);
     return use_field(state);
   }
 }));
+// CONCATENATED MODULE: ./node_modules/quasar/src/composables/private/use-refocus-target.js
+
+/* harmony default export */ var use_refocus_target = (function (props, rootRef) {
+  var refocusRef = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["ref"])(null);
+  var refocusTargetEl = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    if (props.disable !== true) {
+      return null;
+    }
+
+    return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["h"])('span', {
+      ref: refocusRef,
+      class: 'no-outline',
+      tabindex: -1
+    });
+  });
+
+  function refocusTarget(e) {
+    if (e !== void 0 && e.type.indexOf('key') === 0) {
+      if (document.activeElement !== rootRef.value && rootRef.value.contains(document.activeElement) === true) {
+        rootRef.value.focus();
+      }
+    } else if ((e === void 0 || rootRef.value.contains(e.target) === true) && refocusRef.value !== null) {
+      refocusRef.value.focus();
+    }
+  }
+
+  return {
+    refocusTargetEl: refocusTargetEl,
+    refocusTarget: refocusTarget
+  };
+});
+// CONCATENATED MODULE: ./node_modules/quasar/src/utils/private/option-sizes.js
+/* harmony default export */ var option_sizes = ({
+  xs: 30,
+  sm: 35,
+  md: 40,
+  lg: 50,
+  xl: 60
+});
+// CONCATENATED MODULE: ./node_modules/quasar/src/components/checkbox/use-checkbox.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var useCheckboxProps = objectSpread2_objectSpread2(objectSpread2_objectSpread2(objectSpread2_objectSpread2(objectSpread2_objectSpread2({}, useDarkProps), useSizeProps), useFormProps), {}, {
+  modelValue: {
+    required: true,
+    default: null
+  },
+  val: {},
+  trueValue: {
+    default: true
+  },
+  falseValue: {
+    default: false
+  },
+  indeterminateValue: {
+    default: null
+  },
+  toggleOrder: {
+    type: String,
+    validator: function validator(v) {
+      return v === 'tf' || v === 'ft';
+    }
+  },
+  toggleIndeterminate: Boolean,
+  label: String,
+  leftLabel: Boolean,
+  color: String,
+  keepColor: Boolean,
+  dense: Boolean,
+  disable: Boolean,
+  tabindex: [String, Number]
+});
+var useCheckboxEmits = ['update:modelValue'];
+/* harmony default export */ var use_checkbox = (function (type, getInner) {
+  var _getCurrentInstance = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["getCurrentInstance"])(),
+      props = _getCurrentInstance.props,
+      slots = _getCurrentInstance.slots,
+      emit = _getCurrentInstance.emit,
+      proxy = _getCurrentInstance.proxy;
+
+  var $q = proxy.$q;
+  var isDark = use_dark(props, $q);
+  var rootRef = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["ref"])(null);
+
+  var _useRefocusTarget = use_refocus_target(props, rootRef),
+      refocusTargetEl = _useRefocusTarget.refocusTargetEl,
+      refocusTarget = _useRefocusTarget.refocusTarget;
+
+  var sizeStyle = use_size(props, option_sizes);
+  var modelIsArray = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    return props.val !== void 0 && Array.isArray(props.modelValue);
+  });
+  var index = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    return modelIsArray.value === true ? props.modelValue.indexOf(props.val) : -1;
+  });
+  var isTrue = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    return modelIsArray.value === true ? index.value > -1 : props.modelValue === props.trueValue;
+  });
+  var isFalse = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    return modelIsArray.value === true ? index.value === -1 : props.modelValue === props.falseValue;
+  });
+  var isIndeterminate = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    return isTrue.value === false && isFalse.value === false;
+  });
+  var tabindex = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    return props.disable === true ? -1 : props.tabindex || 0;
+  });
+  var classes = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    return "q-".concat(type, " cursor-pointer no-outline row inline no-wrap items-center") + (props.disable === true ? ' disabled' : '') + (isDark.value === true ? " q-".concat(type, "--dark") : '') + (props.dense === true ? " q-".concat(type, "--dense") : '') + (props.leftLabel === true ? ' reverse' : '');
+  });
+  var innerClass = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    var state = isTrue.value === true ? 'truthy' : isFalse.value === true ? 'falsy' : 'indet';
+    var color = props.color !== void 0 && (props.keepColor === true || (type === 'toggle' ? isTrue.value === true : isFalse.value !== true)) ? " text-".concat(props.color) : '';
+    return "q-".concat(type, "__inner relative-position non-selectable q-").concat(type, "__inner--").concat(state).concat(color);
+  });
+  var formAttrs = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    var prop = {
+      type: 'checkbox'
+    };
+    props.name !== void 0 && Object.assign(prop, {
+      checked: isTrue.value,
+      name: props.name,
+      value: modelIsArray.value === true ? props.val : props.trueValue
+    });
+    return prop;
+  });
+  var injectFormInput = useFormInject(formAttrs);
+  var attributes = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+    var attrs = {
+      tabindex: tabindex.value,
+      role: 'checkbox',
+      'aria-label': props.label,
+      'aria-checked': isIndeterminate.value === true ? 'mixed' : isTrue.value === true ? 'true' : 'false'
+    };
+
+    if (props.disable === true) {
+      attrs['aria-disabled'] = 'true';
+    }
+
+    return attrs;
+  });
+
+  function onClick(e) {
+    if (e !== void 0) {
+      stopAndPrevent(e);
+      refocusTarget(e);
+    }
+
+    if (props.disable !== true) {
+      emit('update:modelValue', getNextValue(), e);
+    }
+  }
+
+  function getNextValue() {
+    if (modelIsArray.value === true) {
+      if (isTrue.value === true) {
+        var val = props.modelValue.slice();
+        val.splice(index.value, 1);
+        return val;
+      }
+
+      return props.modelValue.concat([props.val]);
+    }
+
+    if (isTrue.value === true) {
+      if (props.toggleOrder !== 'ft' || props.toggleIndeterminate === false) {
+        return props.falseValue;
+      }
+    } else if (isFalse.value === true) {
+      if (props.toggleOrder === 'ft' || props.toggleIndeterminate === false) {
+        return props.trueValue;
+      }
+    } else {
+      return props.toggleOrder !== 'ft' ? props.trueValue : props.falseValue;
+    }
+
+    return props.indeterminateValue;
+  }
+
+  function onKeydown(e) {
+    if (e.keyCode === 13 || e.keyCode === 32) {
+      stopAndPrevent(e);
+    }
+  }
+
+  function onKeyup(e) {
+    if (e.keyCode === 13 || e.keyCode === 32) {
+      onClick(e);
+    }
+  }
+
+  var getInnerContent = getInner(isTrue, isIndeterminate); // expose public methods
+
+  Object.assign(proxy, {
+    toggle: onClick
+  });
+  return function () {
+    var inner = getInnerContent();
+    props.disable !== true && injectFormInput(inner, 'unshift', " q-".concat(type, "__native absolute q-ma-none q-pa-none"));
+    var child = [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["h"])('div', {
+      class: innerClass.value,
+      style: sizeStyle.value
+    }, inner)];
+
+    if (refocusTargetEl.value !== null) {
+      child.push(refocusTargetEl.value);
+    }
+
+    var label = props.label !== void 0 ? hMergeSlot(slots.default, [props.label]) : hSlot(slots.default);
+    label !== void 0 && child.push(Object(external_commonjs_vue_commonjs2_vue_root_Vue_["h"])('div', {
+      class: "q-".concat(type, "__label q-anchor--skip")
+    }, label));
+    return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["h"])('div', objectSpread2_objectSpread2(objectSpread2_objectSpread2({
+      ref: rootRef,
+      class: classes.value
+    }, attributes.value), {}, {
+      onClick: onClick,
+      onKeydown: onKeydown,
+      onKeyup: onKeyup
+    }), child);
+  };
+});
+// CONCATENATED MODULE: ./node_modules/quasar/src/components/toggle/QToggle.js
+
+
+
+
+/* harmony default export */ var QToggle = (Object(external_commonjs_vue_commonjs2_vue_root_Vue_["defineComponent"])({
+  name: 'QToggle',
+  props: objectSpread2_objectSpread2(objectSpread2_objectSpread2({}, useCheckboxProps), {}, {
+    icon: String,
+    checkedIcon: String,
+    uncheckedIcon: String,
+    indeterminateIcon: String,
+    iconColor: String
+  }),
+  emits: useCheckboxEmits,
+  setup: function setup(props) {
+    function getInner(isTrue, isIndeterminate) {
+      var computedIcon = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+        return (isTrue.value === true ? props.checkedIcon : isIndeterminate.value === true ? props.indeterminateIcon : props.uncheckedIcon) || props.icon;
+      });
+      var computedIconColor = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["computed"])(function () {
+        if (isTrue.value === true) {
+          return props.iconColor;
+        }
+      });
+      return function () {
+        return [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["h"])('div', {
+          class: 'q-toggle__track'
+        }), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["h"])('div', {
+          class: 'q-toggle__thumb absolute flex flex-center no-wrap'
+        }, computedIcon.value !== void 0 ? [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["h"])(QIcon, {
+          name: computedIcon.value,
+          color: computedIconColor.value
+        })] : void 0)];
+      };
+    }
+
+    return use_checkbox('toggle', getInner);
+  }
+}));
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopInventory.vue?vue&type=script&lang=ts
 
 
@@ -90841,7 +91117,10 @@ var fieldPropsList = Object.keys(useFieldProps);
 
 
 
+
+
  // import { Vue, Component} from 'vue-property-decorator';
+
 
 
 
@@ -90877,31 +91156,31 @@ var MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory = /*#__PURE__*/
 
     _this = _super.call.apply(_super, [this].concat(args));
 
-    defineProperty_defineProperty(_assertThisInitialized(_this), "tags", void 0);
-
-    defineProperty_defineProperty(_assertThisInitialized(_this), "equipment", void 0);
-
     defineProperty_defineProperty(_assertThisInitialized(_this), "loadEquipment", void 0);
 
     defineProperty_defineProperty(_assertThisInitialized(_this), "resetShops", void 0);
 
-    defineProperty_defineProperty(_assertThisInitialized(_this), "equipmentTagsSelected", void 0);
-
-    defineProperty_defineProperty(_assertThisInitialized(_this), "searchTerms", void 0);
-
-    defineProperty_defineProperty(_assertThisInitialized(_this), "shops", void 0);
-
-    defineProperty_defineProperty(_assertThisInitialized(_this), "getMarkups", void 0);
+    defineProperty_defineProperty(_assertThisInitialized(_this), "onRefreshEquipment", void 0);
 
     defineProperty_defineProperty(_assertThisInitialized(_this), "onBuyEquipmentClick", void 0);
 
     defineProperty_defineProperty(_assertThisInitialized(_this), "onSellEquipmentClick", void 0);
 
+    defineProperty_defineProperty(_assertThisInitialized(_this), "tags", void 0);
+
+    defineProperty_defineProperty(_assertThisInitialized(_this), "equipmentTagsSelected", void 0);
+
+    defineProperty_defineProperty(_assertThisInitialized(_this), "searchTerms", void 0);
+
+    defineProperty_defineProperty(_assertThisInitialized(_this), "equipment", void 0);
+
+    defineProperty_defineProperty(_assertThisInitialized(_this), "shops", void 0);
+
+    defineProperty_defineProperty(_assertThisInitialized(_this), "getMarkups", void 0);
+
     defineProperty_defineProperty(_assertThisInitialized(_this), "settings", void 0);
 
     defineProperty_defineProperty(_assertThisInitialized(_this), "setSetting", void 0);
-
-    defineProperty_defineProperty(_assertThisInitialized(_this), "onEquipmentEditClick", void 0);
 
     defineProperty_defineProperty(_assertThisInitialized(_this), "profile", void 0);
 
@@ -90914,6 +91193,8 @@ var MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory = /*#__PURE__*/
     defineProperty_defineProperty(_assertThisInitialized(_this), "itemSize", 99);
 
     defineProperty_defineProperty(_assertThisInitialized(_this), "tab", 'Merkals Inventory');
+
+    defineProperty_defineProperty(_assertThisInitialized(_this), "prevTab", '');
 
     defineProperty_defineProperty(_assertThisInitialized(_this), "thumbStyle", {
       right: "4px",
@@ -90951,6 +91232,15 @@ var MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory = /*#__PURE__*/
       return "".concat((_this$settings$select = this.settings.selectedShop) === null || _this$settings$select === void 0 ? void 0 : _this$settings$select.name, "'s Backpack") || false;
     }
   }, {
+    key: "tabChanged",
+    value: function tabChanged() {
+      if (this.prevTab !== this.tab && this.tab.toLowerCase().includes('backpack')) {
+        this.onRefreshEquipment(this.settings.selectedShop);
+      }
+
+      this.prevTab = this.tab;
+    }
+  }, {
     key: "isSellable",
     value: function isSellable(item) {
       return item.qty > 0 && item.gpValue > 0;
@@ -90958,12 +91248,68 @@ var MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory = /*#__PURE__*/
   }, {
     key: "itemBuyValues",
     value: function itemBuyValues(item) {
-      return "".concat((item.gpValue * (this.getMarkups.markUp / 100)).toFixed(2).replace(".00", ""), "gp");
+      if (this.settings.showAsDMGPricing) {
+        switch (item.rarity.toLowerCase()) {
+          case 'common':
+            // 100gp
+            return "".concat((100 * (this.getMarkups.markUp / 100)).toFixed(2).replace('.00', ''), "gp");
+
+          case 'uncommon':
+            // 500gp
+            return "".concat((500 * (this.getMarkups.markUp / 100)).toFixed(2).replace('.00', ''), "gp");
+
+          case 'rare':
+            // 5000gp
+            return "".concat((5000 * (this.getMarkups.markUp / 100)).toFixed(2).replace('.00', ''), "gp");
+
+          case 'veryrare':
+            // 50 000gp
+            return "".concat((50000 * (this.getMarkups.markUp / 100)).toFixed(2).replace('.00', ''), "gp");
+
+          case 'legendary':
+            // 500 000gp
+            return "".concat((500000 * (this.getMarkups.markUp / 100)).toFixed(2).replace('.00', ''), "gp");
+
+          default:
+            console.error("Unknown Rarity: ".concat(item.rarity));
+            return "".concat((item.gpValue * (this.getMarkups.markUp / 100)).toFixed(2).replace('.00', ''), "gp");
+        }
+      } else {
+        return "".concat((item.gpValue * (this.getMarkups.markUp / 100)).toFixed(2).replace('.00', ''), "gp");
+      }
     }
   }, {
     key: "itemSellValues",
     value: function itemSellValues(item) {
-      return "".concat((item.gpValue * (this.getMarkups.markDown / 100)).toFixed(2).replace(".00", ""), "gp");
+      if (this.settings.showAsDMGPricing) {
+        switch (item.rarity.toLowerCase()) {
+          case 'common':
+            // 100gp
+            return "".concat((100 * (this.getMarkups.markDown / 100)).toFixed(2).replace('.00', ''), "gp");
+
+          case 'uncommon':
+            // 500gp
+            return "".concat((500 * (this.getMarkups.markDown / 100)).toFixed(2).replace('.00', ''), "gp");
+
+          case 'rare':
+            // 5000gp
+            return "".concat((5000 * (this.getMarkups.markDown / 100)).toFixed(2).replace('.00', ''), "gp");
+
+          case 'veryrare':
+            // 50 000gp
+            return "".concat((50000 * (this.getMarkups.markDown / 100)).toFixed(2).replace('.00', ''), "gp");
+
+          case 'legendary':
+            // 500 000gp
+            return "".concat((500000 * (this.getMarkups.markDown / 100)).toFixed(2).replace('.00', ''), "gp");
+
+          default:
+            console.error("Unknown Rarity: ".concat(item.rarity));
+            return "".concat((item.gpValue * (this.getMarkups.markDown / 100)).toFixed(2).replace('.00', ''), "gp");
+        }
+      } else {
+        return "".concat((item.gpValue * (this.getMarkups.markDown / 100)).toFixed(2).replace('.00', ''), "gp");
+      }
     }
   }, {
     key: "onChange",
@@ -90996,15 +91342,6 @@ var MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory = /*#__PURE__*/
       return lodash["find"](this.equipmentTagsSelected, {
         tag: tag
       }) !== undefined ? "blue-grey-1" : "blue-grey-10"; // return this.settings.selectedEquipmentTag?.tag == tag ? 'blue-grey-1' : 'blue-grey-10';
-    }
-  }, {
-    key: "onAddInventoryClick",
-    value: function onAddInventoryClick() {
-      if (this.settings.showMagicShopItemDialog == false) {
-        this.setSetting({
-          showMagicShopItemDialog: true
-        });
-      }
     }
   }, {
     key: "onChipClick",
@@ -91074,6 +91411,16 @@ var MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory = /*#__PURE__*/
       }
     }
   }, {
+    key: "UseDMGPricing",
+    get: function get() {
+      return this.settings.showAsDMGPricing;
+    },
+    set: function set(value) {
+      this.setSetting({
+        showAsDMGPricing: value
+      });
+    }
+  }, {
     key: "getEquipmentText",
     value: function getEquipmentText(equip) {
       return equip.type;
@@ -91132,14 +91479,6 @@ var MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory = /*#__PURE__*/
   return MagicShopInventory;
 }(Vue);
 
-Object(tslib_es6["__decorate"])([Getter("tags", {
-  namespace: "equipment"
-})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "tags", void 0);
-
-Object(tslib_es6["__decorate"])([Getter("equipment", {
-  namespace: "equipment"
-})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "equipment", void 0);
-
 Object(tslib_es6["__decorate"])([Action("loadEquipmentList", {
   namespace: "equipment"
 })], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "loadEquipment", void 0);
@@ -91148,21 +91487,9 @@ Object(tslib_es6["__decorate"])([Action("resetShops", {
   namespace: "shops"
 })], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "resetShops", void 0);
 
-Object(tslib_es6["__decorate"])([Getter("selectedEquipmentTags", {
-  namespace: "settings"
-})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "equipmentTagsSelected", void 0);
-
-Object(tslib_es6["__decorate"])([Getter("searchTerms", {
-  namespace: "settings"
-})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "searchTerms", void 0);
-
-Object(tslib_es6["__decorate"])([Getter("getShops", {
+Object(tslib_es6["__decorate"])([Action("refreshEquipment", {
   namespace: "shops"
-})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "shops", void 0);
-
-Object(tslib_es6["__decorate"])([Getter("getMarkups", {
-  namespace: "shops"
-})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "getMarkups", void 0);
+})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "onRefreshEquipment", void 0);
 
 Object(tslib_es6["__decorate"])([Action("buyEquipment", {
   namespace: "shops"
@@ -91172,6 +91499,32 @@ Object(tslib_es6["__decorate"])([Action("sellEquipment", {
   namespace: "shops"
 })], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "onSellEquipmentClick", void 0);
 
+Object(tslib_es6["__decorate"])([Action("onEquipmentEdit", {
+  namespace: "settings"
+}), Getter("tags", {
+  namespace: "equipment"
+})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "tags", void 0);
+
+Object(tslib_es6["__decorate"])([Getter("selectedEquipmentTags", {
+  namespace: "settings"
+})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "equipmentTagsSelected", void 0);
+
+Object(tslib_es6["__decorate"])([Getter("searchTerms", {
+  namespace: "settings"
+})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "searchTerms", void 0);
+
+Object(tslib_es6["__decorate"])([Getter("equipment", {
+  namespace: "equipment"
+})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "equipment", void 0);
+
+Object(tslib_es6["__decorate"])([Getter("getShops", {
+  namespace: "shops"
+})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "shops", void 0);
+
+Object(tslib_es6["__decorate"])([Getter("getMarkups", {
+  namespace: "shops"
+})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "getMarkups", void 0);
+
 Object(tslib_es6["__decorate"])([Getter("settings", {
   namespace: "settings"
 })], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "settings", void 0);
@@ -91179,10 +91532,6 @@ Object(tslib_es6["__decorate"])([Getter("settings", {
 Object(tslib_es6["__decorate"])([Action("setSetting", {
   namespace: "settings"
 })], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "setSetting", void 0);
-
-Object(tslib_es6["__decorate"])([Action("onEquipmentEdit", {
-  namespace: "settings"
-})], MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory.prototype, "onEquipmentEditClick", void 0);
 
 Object(tslib_es6["__decorate"])([Getter("profile", {
   namespace: "user"
@@ -91199,6 +91548,7 @@ MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory = Object(tslib_es6[
     QVirtualScroll: QVirtualScroll,
     QSeparator: QSeparator,
     QTooltip: QTooltip,
+    QToggle: QToggle,
     QBtn: QBtn,
     QItem: QItem,
     QItemSection: QItemSection,
@@ -91211,8 +91561,8 @@ MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory = Object(tslib_es6[
 /* harmony default export */ var MagicShopInventoryvue_type_script_lang_ts = (MagicShopInventoryvue_type_script_lang_ts_MagicShopInventory);
 // CONCATENATED MODULE: ./src/components/MagicShopInventory.vue?vue&type=script&lang=ts
  
-// EXTERNAL MODULE: ./src/components/MagicShopInventory.vue?vue&type=style&index=0&id=e6144226&scoped=true&lang=scss
-var MagicShopInventoryvue_type_style_index_0_id_e6144226_scoped_true_lang_scss = __webpack_require__("21cf");
+// EXTERNAL MODULE: ./src/components/MagicShopInventory.vue?vue&type=style&index=0&id=48e79e1e&scoped=true&lang=scss
+var MagicShopInventoryvue_type_style_index_0_id_48e79e1e_scoped_true_lang_scss = __webpack_require__("84ff");
 
 // CONCATENATED MODULE: ./node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelper.js
 
@@ -92734,7 +93084,7 @@ var usePanelEmits = ['update:modelValue', 'before-transition', 'transition'];
 
 
 
-const MagicShopInventory_exports_ = /*#__PURE__*/exportHelper_default()(MagicShopInventoryvue_type_script_lang_ts, [['render',MagicShopInventoryvue_type_template_id_e6144226_scoped_true_ts_true_render],['__scopeId',"data-v-e6144226"]])
+const MagicShopInventory_exports_ = /*#__PURE__*/exportHelper_default()(MagicShopInventoryvue_type_script_lang_ts, [['render',MagicShopInventoryvue_type_template_id_48e79e1e_scoped_true_ts_true_render],['__scopeId',"data-v-48e79e1e"]])
 
 /* harmony default export */ var components_MagicShopInventory = (MagicShopInventory_exports_);
 
@@ -92752,25 +93102,26 @@ const MagicShopInventory_exports_ = /*#__PURE__*/exportHelper_default()(MagicSho
 
 
 
-runtime_auto_import_default()(MagicShopInventoryvue_type_script_lang_ts, 'components', {QTabs: QTabs,QTab: QTab,QTabPanels: QTabPanels,QTabPanel: QTabPanel,QBtn: QBtn,QTooltip: QTooltip,QVirtualScroll: QVirtualScroll,QItemSection: QItemSection,QIcon: QIcon,QItem: QItem,QItemLabel: QItemLabel,QChip: QChip,QSeparator: QSeparator,QCard: QCard});
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopPurchases.vue?vue&type=template&id=05038dca&scoped=true&ts=true
+runtime_auto_import_default()(MagicShopInventoryvue_type_script_lang_ts, 'components', {QToggle: QToggle,QTooltip: QTooltip,QTabs: QTabs,QTab: QTab,QTabPanels: QTabPanels,QTabPanel: QTabPanel,QVirtualScroll: QVirtualScroll,QItemSection: QItemSection,QIcon: QIcon,QItem: QItem,QItemLabel: QItemLabel,QChip: QChip,QBtn: QBtn,QSeparator: QSeparator,QCard: QCard});
+
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopPurchases.vue?vue&type=template&id=b476a42c&scoped=true&ts=true
 
 
 
 
-var MagicShopPurchasesvue_type_template_id_05038dca_scoped_true_ts_true_withScopeId = function _withScopeId(n) {
-  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["pushScopeId"])("data-v-05038dca"), n = n(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["popScopeId"])(), n;
+var MagicShopPurchasesvue_type_template_id_b476a42c_scoped_true_ts_true_withScopeId = function _withScopeId(n) {
+  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["pushScopeId"])("data-v-b476a42c"), n = n(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["popScopeId"])(), n;
 };
 
-var MagicShopPurchasesvue_type_template_id_05038dca_scoped_true_ts_true_hoisted_1 = {
+var MagicShopPurchasesvue_type_template_id_b476a42c_scoped_true_ts_true_hoisted_1 = {
   style: {
     "height": "100%",
     "padding": "5px"
   },
   class: "col-4 justify-center"
 };
-function MagicShopPurchasesvue_type_template_id_05038dca_scoped_true_ts_true_render(_ctx, _cache, $props, $setup, $data, $options) {
+function MagicShopPurchasesvue_type_template_id_b476a42c_scoped_true_ts_true_render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_MagicShopPurchasesHeaderBlock = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("MagicShopPurchasesHeaderBlock");
 
   var _component_q_tab = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-tab");
@@ -92785,12 +93136,13 @@ function MagicShopPurchasesvue_type_template_id_05038dca_scoped_true_ts_true_ren
 
   var _component_q_tab_panels = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-tab-panels");
 
-  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", MagicShopPurchasesvue_type_template_id_05038dca_scoped_true_ts_true_hoisted_1, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_MagicShopPurchasesHeaderBlock), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_tabs, {
+  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", MagicShopPurchasesvue_type_template_id_b476a42c_scoped_true_ts_true_hoisted_1, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_MagicShopPurchasesHeaderBlock), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_tabs, {
     modelValue: _ctx.tab,
     "onUpdate:modelValue": _cache[0] || (_cache[0] = function ($event) {
       return _ctx.tab = $event;
     }),
     "inline-label": "",
+    "outside-arrows": "",
     class: "text-teal",
     style: {
       "height": "4vh"
@@ -92857,7 +93209,7 @@ function MagicShopPurchasesvue_type_template_id_05038dca_scoped_true_ts_true_ren
     _: 1
   }, 8, ["modelValue"])]);
 }
-// CONCATENATED MODULE: ./src/components/MagicShopPurchases.vue?vue&type=template&id=05038dca&scoped=true&ts=true
+// CONCATENATED MODULE: ./src/components/MagicShopPurchases.vue?vue&type=template&id=b476a42c&scoped=true&ts=true
 
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopPurchasesHeaderBlock.vue?vue&type=template&id=f054f794&scoped=true&ts=true
 
@@ -94952,25 +95304,25 @@ var dirProps = {
     };
   }
 }));
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopPurchaseFooterBlock.vue?vue&type=template&id=3f83c4ac&scoped=true&ts=true
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopPurchaseFooterBlock.vue?vue&type=template&id=3c062d54&scoped=true&ts=true
 
 
-var MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_withScopeId = function _withScopeId(n) {
-  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["pushScopeId"])("data-v-3f83c4ac"), n = n(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["popScopeId"])(), n;
+var MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_withScopeId = function _withScopeId(n) {
+  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["pushScopeId"])("data-v-3c062d54"), n = n(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["popScopeId"])(), n;
 };
 
-var MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_hoisted_1 = /*#__PURE__*/MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_withScopeId(function () {
+var MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_hoisted_1 = /*#__PURE__*/MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_withScopeId(function () {
   return /*#__PURE__*/Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", {
     style: {
       "text-align": "left",
       "color": "grey"
     },
-    class: "no-wrap col-5",
+    class: "no-wrap col-4",
     header: ""
   }, /*#__PURE__*/Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])('Clear counter'), -1);
 });
 
-var MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_hoisted_2 = {
+var MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_hoisted_2 = {
   style: {
     "text-align": "left",
     "color": "yellow"
@@ -94979,13 +95331,17 @@ var MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_tru
   header: ""
 };
 
-var MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_hoisted_3 = /*#__PURE__*/MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_withScopeId(function () {
-  return /*#__PURE__*/Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("img", {
-    class: "dtd-buy"
-  }, null, -1);
+var MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_hoisted_3 = /*#__PURE__*/MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_withScopeId(function () {
+  return /*#__PURE__*/Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", {
+    style: {
+      "text-align": "left",
+      "padding-right": "6px"
+    },
+    class: "no-wrap justify-start text-blue-4 col-1"
+  }, /*#__PURE__*/Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])('Confirm'), -1);
 });
 
-function MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_render(_ctx, _cache, $props, $setup, $data, $options) {
+function MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_DeleteIcon = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("DeleteIcon");
 
   var _component_q_btn = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("q-btn");
@@ -94997,8 +95353,9 @@ function MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_t
     bordered: "",
     class: "my-card justify-between row items-center no-wrap",
     style: {
-      "height": "6vh",
-      "padding-bottom": "5px"
+      "height": "5vh",
+      "padding-bottom": "2px",
+      "padding-top": "4px"
     }
   }, {
     default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
@@ -95006,8 +95363,11 @@ function MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_t
         class: "col-1",
         deleteAble: _ctx.settings.selectedShop,
         action: "shops/resetShop"
-      }, null, 8, ["deleteAble"]), MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_hoisted_1, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_hoisted_2, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])('Total ' + _ctx.getShopsTotal + 'gp'), 1), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_btn, {
-        class: "dtd-buy gt-xs no-wrap justify-start col-1",
+      }, null, 8, ["deleteAble"]), MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_hoisted_1, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementVNode"])("div", MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_hoisted_2, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["toDisplayString"])('Total ' + _ctx.getShopsTotal + 'gp'), 1), MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_hoisted_3, Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_q_btn, {
+        class: "dtd-buy no-wrap",
+        style: {
+          "margin-right": "10px"
+        },
         onClick: _cache[0] || (_cache[0] = function ($event) {
           return _ctx.onPurchaseClick(_ctx.settings.selectedShop);
         }),
@@ -95016,17 +95376,12 @@ function MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_t
         outline: "",
         dense: "",
         round: ""
-      }, {
-        default: Object(external_commonjs_vue_commonjs2_vue_root_Vue_["withCtx"])(function () {
-          return [MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_hoisted_3];
-        }),
-        _: 1
       })];
     }),
     _: 1
   });
 }
-// CONCATENATED MODULE: ./src/components/MagicShopPurchaseFooterBlock.vue?vue&type=template&id=3f83c4ac&scoped=true&ts=true
+// CONCATENATED MODULE: ./src/components/MagicShopPurchaseFooterBlock.vue?vue&type=template&id=3c062d54&scoped=true&ts=true
 
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopPurchaseFooterBlock.vue?vue&type=script&lang=ts
 
@@ -95096,8 +95451,8 @@ MagicShopPurchaseFooterBlockvue_type_script_lang_ts_MagicShopPurchaseFooterBlock
 /* harmony default export */ var MagicShopPurchaseFooterBlockvue_type_script_lang_ts = (MagicShopPurchaseFooterBlockvue_type_script_lang_ts_MagicShopPurchaseFooterBlock);
 // CONCATENATED MODULE: ./src/components/MagicShopPurchaseFooterBlock.vue?vue&type=script&lang=ts
  
-// EXTERNAL MODULE: ./src/components/MagicShopPurchaseFooterBlock.vue?vue&type=style&index=0&id=3f83c4ac&scoped=true&lang=scss
-var MagicShopPurchaseFooterBlockvue_type_style_index_0_id_3f83c4ac_scoped_true_lang_scss = __webpack_require__("a3e7");
+// EXTERNAL MODULE: ./src/components/MagicShopPurchaseFooterBlock.vue?vue&type=style&index=0&id=3c062d54&scoped=true&lang=scss
+var MagicShopPurchaseFooterBlockvue_type_style_index_0_id_3c062d54_scoped_true_lang_scss = __webpack_require__("8ddc");
 
 // CONCATENATED MODULE: ./src/components/MagicShopPurchaseFooterBlock.vue
 
@@ -95107,7 +95462,7 @@ var MagicShopPurchaseFooterBlockvue_type_style_index_0_id_3f83c4ac_scoped_true_l
 
 
 
-const MagicShopPurchaseFooterBlock_exports_ = /*#__PURE__*/exportHelper_default()(MagicShopPurchaseFooterBlockvue_type_script_lang_ts, [['render',MagicShopPurchaseFooterBlockvue_type_template_id_3f83c4ac_scoped_true_ts_true_render],['__scopeId',"data-v-3f83c4ac"]])
+const MagicShopPurchaseFooterBlock_exports_ = /*#__PURE__*/exportHelper_default()(MagicShopPurchaseFooterBlockvue_type_script_lang_ts, [['render',MagicShopPurchaseFooterBlockvue_type_template_id_3c062d54_scoped_true_ts_true_render],['__scopeId',"data-v-3c062d54"]])
 
 /* harmony default export */ var components_MagicShopPurchaseFooterBlock = (MagicShopPurchaseFooterBlock_exports_);
 
@@ -95325,8 +95680,8 @@ MagicShopPurchasesvue_type_script_lang_ts_MagicShopPurchases = Object(tslib_es6[
 /* harmony default export */ var MagicShopPurchasesvue_type_script_lang_ts = (MagicShopPurchasesvue_type_script_lang_ts_MagicShopPurchases);
 // CONCATENATED MODULE: ./src/components/MagicShopPurchases.vue?vue&type=script&lang=ts
  
-// EXTERNAL MODULE: ./src/components/MagicShopPurchases.vue?vue&type=style&index=0&id=05038dca&scoped=true&lang=scss
-var MagicShopPurchasesvue_type_style_index_0_id_05038dca_scoped_true_lang_scss = __webpack_require__("2331");
+// EXTERNAL MODULE: ./src/components/MagicShopPurchases.vue?vue&type=style&index=0&id=b476a42c&scoped=true&lang=scss
+var MagicShopPurchasesvue_type_style_index_0_id_b476a42c_scoped_true_lang_scss = __webpack_require__("bace");
 
 // CONCATENATED MODULE: ./src/components/MagicShopPurchases.vue
 
@@ -95336,7 +95691,7 @@ var MagicShopPurchasesvue_type_style_index_0_id_05038dca_scoped_true_lang_scss =
 
 
 
-const MagicShopPurchases_exports_ = /*#__PURE__*/exportHelper_default()(MagicShopPurchasesvue_type_script_lang_ts, [['render',MagicShopPurchasesvue_type_template_id_05038dca_scoped_true_ts_true_render],['__scopeId',"data-v-05038dca"]])
+const MagicShopPurchases_exports_ = /*#__PURE__*/exportHelper_default()(MagicShopPurchasesvue_type_script_lang_ts, [['render',MagicShopPurchasesvue_type_template_id_b476a42c_scoped_true_ts_true_render],['__scopeId',"data-v-b476a42c"]])
 
 /* harmony default export */ var components_MagicShopPurchases = (MagicShopPurchases_exports_);
 
@@ -95347,31 +95702,31 @@ const MagicShopPurchases_exports_ = /*#__PURE__*/exportHelper_default()(MagicSho
 
 runtime_auto_import_default()(MagicShopPurchasesvue_type_script_lang_ts, 'components', {QTabs: QTabs,QTab: QTab,QTabPanels: QTabPanels,QTabPanel: QTabPanel,QCard: QCard});
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopItemDescription.vue?vue&type=template&id=50cb4c8d&scoped=true&ts=true
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShopItemDescription.vue?vue&type=template&id=2c6eea11&scoped=true&ts=true
 
 
-var MagicShopItemDescriptionvue_type_template_id_50cb4c8d_scoped_true_ts_true_withScopeId = function _withScopeId(n) {
-  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["pushScopeId"])("data-v-50cb4c8d"), n = n(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["popScopeId"])(), n;
+var MagicShopItemDescriptionvue_type_template_id_2c6eea11_scoped_true_ts_true_withScopeId = function _withScopeId(n) {
+  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["pushScopeId"])("data-v-2c6eea11"), n = n(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["popScopeId"])(), n;
 };
 
-var MagicShopItemDescriptionvue_type_template_id_50cb4c8d_scoped_true_ts_true_hoisted_1 = {
+var MagicShopItemDescriptionvue_type_template_id_2c6eea11_scoped_true_ts_true_hoisted_1 = {
   style: {
     "height": "98vh",
     "padding": "5px 5px 0px"
   },
   class: "col"
 };
-function MagicShopItemDescriptionvue_type_template_id_50cb4c8d_scoped_true_ts_true_render(_ctx, _cache, $props, $setup, $data, $options) {
+function MagicShopItemDescriptionvue_type_template_id_2c6eea11_scoped_true_ts_true_render(_ctx, _cache, $props, $setup, $data, $options) {
   var _component_PaperText = Object(external_commonjs_vue_commonjs2_vue_root_Vue_["resolveComponent"])("PaperText");
 
-  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", MagicShopItemDescriptionvue_type_template_id_50cb4c8d_scoped_true_ts_true_hoisted_1, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_PaperText, {
+  return Object(external_commonjs_vue_commonjs2_vue_root_Vue_["openBlock"])(), Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createElementBlock"])("div", MagicShopItemDescriptionvue_type_template_id_2c6eea11_scoped_true_ts_true_hoisted_1, [Object(external_commonjs_vue_commonjs2_vue_root_Vue_["createVNode"])(_component_PaperText, {
     page: _ctx.page,
     style: {
       "height": "98vh"
     }
   }, null, 8, ["page"])]);
 }
-// CONCATENATED MODULE: ./src/components/MagicShopItemDescription.vue?vue&type=template&id=50cb4c8d&scoped=true&ts=true
+// CONCATENATED MODULE: ./src/components/MagicShopItemDescription.vue?vue&type=template&id=2c6eea11&scoped=true&ts=true
 
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-loader-v16/dist/templateLoader.js??ref--8!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/PaperText.vue?vue&type=template&id=39694004&scoped=true&ts=true
 
@@ -95612,7 +95967,7 @@ var MagicShopItemDescriptionvue_type_script_lang_ts_MagicShopItemDescription = /
         }],
         paragraphs: [{
           title: (euip === null || euip === void 0 ? void 0 : euip.name) || "",
-          paragraph: (euip === null || euip === void 0 ? void 0 : euip.description) || "\n\t\t\t\t\tWelcome to Merkals Store! The story of Merkal is a long and mesterious one, only to be told over a mulled wine and a good imported cheese \n\t\t\t\t\tpreferably looted from the abondoned ruins of myth drannor... we are all outa that cheese, so go buy somthing.... <br> \n\t\t\t\t\tOh and theives will have their hands returned to them in one of our new stylish Merkal carry bags, and directed to Orins counter, \n\t\t\t\t\thes a Druid and can sell you regeneration services...\n\t\t\t\t\t"
+          paragraph: (euip === null || euip === void 0 ? void 0 : euip.description) || "\n\t\t\t\t\tWelcome to Merkals Store! The story of Merkal is a long and mysterious one, only to be told over a mulled wine and a good imported cheese \n\t\t\t\t\tpreferably looted from the abandoned ruins of Myth Drannor... we are all outa that cheese, so go buy something.... <br> \n\t\t\t\t\tOh and thieves will have their hands returned to them in one of our new stylish Merkal carry bags, and directed to Orins counter, \n\t\t\t\t\thes a Druid and can sell you regeneration services...<br><br>\n\t\t\t\t\tOne more thing, rummaging around in you backpacks while in the store, will gain the attention of the iron golem guards and void all sales.<br><br>\n\t\t\t\t\tSo don't do it!\n\t\t\t\t\t"
         }
         /*,{
         title: euip?.name ? '' : 'Special Thanks',
@@ -95645,8 +96000,8 @@ MagicShopItemDescriptionvue_type_script_lang_ts_MagicShopItemDescription = Objec
 /* harmony default export */ var MagicShopItemDescriptionvue_type_script_lang_ts = (MagicShopItemDescriptionvue_type_script_lang_ts_MagicShopItemDescription);
 // CONCATENATED MODULE: ./src/components/MagicShopItemDescription.vue?vue&type=script&lang=ts
  
-// EXTERNAL MODULE: ./src/components/MagicShopItemDescription.vue?vue&type=style&index=0&id=50cb4c8d&scoped=true&lang=scss
-var MagicShopItemDescriptionvue_type_style_index_0_id_50cb4c8d_scoped_true_lang_scss = __webpack_require__("836f");
+// EXTERNAL MODULE: ./src/components/MagicShopItemDescription.vue?vue&type=style&index=0&id=2c6eea11&scoped=true&lang=scss
+var MagicShopItemDescriptionvue_type_style_index_0_id_2c6eea11_scoped_true_lang_scss = __webpack_require__("8cda");
 
 // CONCATENATED MODULE: ./src/components/MagicShopItemDescription.vue
 
@@ -95656,10 +96011,16 @@ var MagicShopItemDescriptionvue_type_style_index_0_id_50cb4c8d_scoped_true_lang_
 
 
 
-const MagicShopItemDescription_exports_ = /*#__PURE__*/exportHelper_default()(MagicShopItemDescriptionvue_type_script_lang_ts, [['render',MagicShopItemDescriptionvue_type_template_id_50cb4c8d_scoped_true_ts_true_render],['__scopeId',"data-v-50cb4c8d"]])
+const MagicShopItemDescription_exports_ = /*#__PURE__*/exportHelper_default()(MagicShopItemDescriptionvue_type_script_lang_ts, [['render',MagicShopItemDescriptionvue_type_template_id_2c6eea11_scoped_true_ts_true_render],['__scopeId',"data-v-2c6eea11"]])
 
 /* harmony default export */ var components_MagicShopItemDescription = (MagicShopItemDescription_exports_);
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/components/MagicShop.vue?vue&type=script&lang=ts
+
+
+
+
+
+
 
 
 
@@ -95675,13 +96036,83 @@ var MagicShopvue_type_script_lang_ts_MagicShop = /*#__PURE__*/function (_Vue) {
   var _super = _createSuper(MagicShop);
 
   function MagicShop() {
+    var _this;
+
     _classCallCheck(this, MagicShop);
 
-    return _super.apply(this, arguments);
+    for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
+      args[_key] = arguments[_key];
+    }
+
+    _this = _super.call.apply(_super, [this].concat(args));
+
+    defineProperty_defineProperty(_assertThisInitialized(_this), "updateActorsShop", void 0);
+
+    return _this;
   }
+
+  _createClass(MagicShop, [{
+    key: "onCreateItem",
+    value: function onCreateItem(item) {
+      var _item$actor;
+
+      console.log("".concat(item.name, " changed"));
+
+      if ((_item$actor = item.actor) !== null && _item$actor !== void 0 && _item$actor.id) {
+        var _item$actor2;
+
+        this.updateActorsShop((_item$actor2 = item.actor) === null || _item$actor2 === void 0 ? void 0 : _item$actor2.id);
+      }
+    }
+  }, {
+    key: "onDeleteItem",
+    value: function onDeleteItem(item) {
+      var _item$actor3;
+
+      console.log("".concat(item.name, " changed"));
+
+      if ((_item$actor3 = item.actor) !== null && _item$actor3 !== void 0 && _item$actor3.id) {
+        var _item$actor4;
+
+        this.updateActorsShop((_item$actor4 = item.actor) === null || _item$actor4 === void 0 ? void 0 : _item$actor4.id);
+      }
+    }
+  }, {
+    key: "onUpdateItem",
+    value: function onUpdateItem(item, data, actorId) {
+      var _item$actor5;
+
+      console.log("".concat(item.name, " changed"));
+
+      if ((_item$actor5 = item.actor) !== null && _item$actor5 !== void 0 && _item$actor5.id) {
+        var _item$actor6;
+
+        this.updateActorsShop((_item$actor6 = item.actor) === null || _item$actor6 === void 0 ? void 0 : _item$actor6.id);
+      }
+    }
+  }, {
+    key: "mounted",
+    value: function mounted() {
+      var _this2 = this;
+
+      Hooks.on('createItem', function (item) {
+        return _this2.onCreateItem(item);
+      });
+      Hooks.on('deleteItem', function (item) {
+        return _this2.onDeleteItem(item);
+      });
+      Hooks.on('updateItem', function (item, data, actorId) {
+        return _this2.onUpdateItem(item, data, actorId);
+      });
+    }
+  }]);
 
   return MagicShop;
 }(Vue);
+
+Object(tslib_es6["__decorate"])([Action("updateActorsShop", {
+  namespace: "shops"
+})], MagicShopvue_type_script_lang_ts_MagicShop.prototype, "updateActorsShop", void 0);
 
 MagicShopvue_type_script_lang_ts_MagicShop = Object(tslib_es6["__decorate"])([Options({
   components: {
@@ -95699,7 +96130,7 @@ MagicShopvue_type_script_lang_ts_MagicShop = Object(tslib_es6["__decorate"])([Op
 
 
 
-const MagicShop_exports_ = /*#__PURE__*/exportHelper_default()(MagicShopvue_type_script_lang_ts, [['render',MagicShopvue_type_template_id_5f2f5e7c_ts_true_render]])
+const MagicShop_exports_ = /*#__PURE__*/exportHelper_default()(MagicShopvue_type_script_lang_ts, [['render',MagicShopvue_type_template_id_1cc884a3_ts_true_render]])
 
 /* harmony default export */ var components_MagicShop = (MagicShop_exports_);
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--14-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/ts-loader??ref--14-3!./node_modules/vue-cli-plugin-quasar/lib/loader.js.transform-quasar-imports.js!./node_modules/vue-cli-plugin-quasar/lib/loader.vue.auto-import-quasar.js??ref--0-0!./node_modules/cache-loader/dist/cjs.js??ref--0-1!./node_modules/vue-loader-v16/dist??ref--0-2!./src/App.vue?vue&type=script&lang=ts
@@ -95991,7 +96422,7 @@ function getDebugInvSales() {
   var items = [];
 
   for (var i = 0; i < 10; i++) {
-    var invItem = NewEquipment("demo Item ".concat(i), equipmentTypeOptions.EQUIPMENT, '', (i * 10).toString(), '10', "A Demo Item named ".concat(i), "rare", "", [], "", i, i * 10, {}, {
+    var invItem = NewEquipment("demo Item ".concat(Math.floor(Math.random() * 1000).toString()), equipmentTypeOptions.EQUIPMENT, '', (Math.random() * 10).toString(), '10', "Item named ".concat((Math.random() * 10).toString()), "rare", "", [], "", i, i * 10, {}, {
       _id: i.toString()
     });
     invItem.id = i.toString();
@@ -96022,7 +96453,8 @@ var defaultShopInterface = function defaultShopInterface() {
       inventorySales: [],
       actor: undefined,
       maxCreditGp: -1
-    };
+    }; //const shop: Shop = {id, name, purchases: [], sales: [], inventorySales: getDebugInvSales(), actor: undefined, maxCreditGp: -1};
+
     shopsStateInterface.shops.push(shop);
   }
 
@@ -96034,7 +96466,7 @@ var equipmentShop_state_state = defaultShopInterface();
 // CONCATENATED MODULE: ./src/store/settings/state.ts
 
 
-var NewSettings = function NewSettings(selectedEquipmentTags, selectedShop, selectedEquipment, showTagDialog, showTraitDialog, showMagicShopItemDialog, searchTerms) {
+var NewSettings = function NewSettings(selectedEquipmentTags, selectedShop, selectedEquipment, showTagDialog, showTraitDialog, showMagicShopItemDialog, showAsDMGPricing, searchTerms) {
   return {
     selectedEquipmentTags: selectedEquipmentTags,
     selectedShop: selectedShop,
@@ -96042,11 +96474,12 @@ var NewSettings = function NewSettings(selectedEquipmentTags, selectedShop, sele
     showTagDialog: showTagDialog,
     showTraitDialog: showTraitDialog,
     showMagicShopItemDialog: showMagicShopItemDialog,
-    searchTerms: searchTerms
+    searchTerms: searchTerms,
+    showAsDMGPricing: showAsDMGPricing
   };
 };
 var state_defaultSettings = function defaultSettings() {
-  return NewSettings([], equipmentShop_state.shops[0], defaultEquipment(), false, false, false, []);
+  return NewSettings([], equipmentShop_state.shops[0], defaultEquipment(), false, false, false, false, []);
 };
 var settings_state_state = {
   settings: state_defaultSettings()
@@ -96090,7 +96523,7 @@ var settings_getters_getters = {
 
 var mutations_mutation = {
   setSetting: function setSetting(state, data) {
-    state.settings = lodash["assign"]({}, state.settings, data);
+    state.settings = lodash["assign"]({}, state.settings, data); //state.settings = _.merge(state.settings, data);
   }
 };
 /* harmony default export */ var settings_mutations = (mutations_mutation);
@@ -96362,10 +96795,128 @@ var equipment_storeModule = {
   state: equipment_state
 };
 /* harmony default export */ var store_equipment = (equipment_storeModule);
+// EXTERNAL MODULE: ./node_modules/core-js/modules/es.object.entries.js
+var es_object_entries = __webpack_require__("4fad");
+
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.math.trunc.js
 var es_math_trunc = __webpack_require__("b65f");
 
+// CONCATENATED MODULE: ./src/foundary/5eInventory.ts
+
+var _5eInventory_getItemType = function getItemType(equipType) {
+  switch (equipType) {
+    case equipmentTypeOptions.ARMOR:
+      return "equipment";
+      break;
+
+    case equipmentTypeOptions.CONSUMABLE:
+      return "consumable";
+      break;
+
+    case equipmentTypeOptions.WANDS:
+    case equipmentTypeOptions.WEAPONS:
+      return "weapon";
+      break;
+
+    case equipmentTypeOptions.TRADEGOODS:
+    case equipmentTypeOptions.TRAVEL:
+    case equipmentTypeOptions.EXPENSES:
+      return "loot";
+      break;
+
+    case equipmentTypeOptions.TOOLS:
+      return "tool";
+      break;
+
+    default:
+      return "equipment";
+  }
+
+  return "equipment";
+};
+var getDefaultFvttItem = function getDefaultFvttItem() {
+  var invData = {
+    description: {
+      value: "",
+      chat: "",
+      unidentified: ""
+    },
+    source: "",
+    quantity: 0,
+    weight: 0,
+    price: undefined,
+    attunement: 0,
+    equipped: false,
+    rarity: "",
+    identified: false,
+    activation: {
+      type: "action",
+      cost: 1,
+      condition: ""
+    },
+    duration: {
+      value: null,
+      units: ""
+    },
+    target: {
+      value: null,
+      width: null,
+      units: "",
+      type: ""
+    },
+    range: {
+      value: 5,
+      long: null,
+      units: "ft"
+    },
+    uses: {
+      value: null,
+      max: "",
+      per: undefined
+    },
+    consume: {
+      type: "",
+      target: undefined,
+      amount: null
+    },
+    actionType: "",
+    attackBonus: undefined,
+    chatFlavor: "",
+    critical: {
+      threshold: null,
+      damage: ""
+    },
+    damage: {
+      parts: [],
+      versatile: ""
+    },
+    formula: "",
+    save: {
+      ability: "",
+      dc: null,
+      scaling: "spell"
+    }
+  };
+  var item = {
+    _id: "",
+    name: "",
+    type: "",
+    img: "",
+    data: invData,
+    effects: [],
+    folder: undefined,
+    sort: 0,
+    permission: {
+      default: 0
+    },
+    flags: {}
+  };
+  return item;
+};
 // CONCATENATED MODULE: ./src/foundary/5e.ts
+
+
+
 
 
 
@@ -96400,11 +96951,27 @@ var _5e_DnD5E = /*#__PURE__*/function () {
     value: function getPlayerCharacters() {
       var _window2, _window2$game, _window2$game$actors;
 
-      var pcs = (_window2 = window) === null || _window2 === void 0 ? void 0 : (_window2$game = _window2.game) === null || _window2$game === void 0 ? void 0 : (_window2$game$actors = _window2$game.actors) === null || _window2$game$actors === void 0 ? void 0 : _window2$game$actors.filter(function (p) {
-        return (
-          /*x.hasPlayerOwner &&*/
-          p.data.type == "character"
-        );
+      var pcs = (_window2 = window) === null || _window2 === void 0 ? void 0 : (_window2$game = _window2.game) === null || _window2$game === void 0 ? void 0 : (_window2$game$actors = _window2$game.actors) === null || _window2$game$actors === void 0 ? void 0 : _window2$game$actors.filter(function (actor) {
+        var _game, _game$users, _canvas, _canvas$tokens;
+
+        return actor.data.type == "character" && // Get only characters
+        actor.hasPlayerOwner === true && // With Player owners
+        (((_game = game) === null || _game === void 0 ? void 0 : (_game$users = _game.users) === null || _game$users === void 0 ? void 0 : _game$users.filter(function (u) {
+          return u.active && // Active Users Only.
+          !u.isGM && // User is not the GM
+          Object.entries(actor.data.permission) // Get permissions for the Actor
+          .filter(function (a) {
+            return a[1] === CONST.DOCUMENT_PERMISSION_LEVELS.OWNER;
+          }) // And filter them by those that are owners
+          .map(function (a) {
+            return a[0];
+          }) // Get the IDs of the Users with owner permssioon
+          .includes(u.id); // Filter out Users that don't have one of these IDs
+        })) || []).length > 0 && (((_canvas = canvas) === null || _canvas === void 0 ? void 0 : (_canvas$tokens = _canvas.tokens) === null || _canvas$tokens === void 0 ? void 0 : _canvas$tokens.placeables.filter(function (token) {
+          var ta = token.actor;
+          return (ta === null || ta === void 0 ? void 0 : ta.data.type) == 'character' && (ta === null || ta === void 0 ? void 0 : ta.hasPlayerOwner) === true && (ta === null || ta === void 0 ? void 0 : ta.data._id) == actor.data._id;
+        } // Check Actor has a token on the table.
+        )) || []).length > 0;
       });
       var playerCharacters = (pcs === null || pcs === void 0 ? void 0 : pcs.map(function (p) {
         return p.toObject();
@@ -96425,33 +96992,34 @@ var _5e_DnD5E = /*#__PURE__*/function () {
     key: "finalizePurchase",
     value: function () {
       var _finalizePurchase = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee(shop, total) {
-        var _game$actors, actor, gpTotal, _yield$DnD5E$getActor, goldRemaining, leftoverPP, leftoverGP, leftoverSP, leftoverCP, packName, pack, _iterator, _step, _item$externalInfo$fv, item, _item$externalInfo$fv2, purchase, purchaseObj, itemsIdsToDelete, itemsUpdates, ownedItems;
+        var _game$actors, actor, gpTotal, _yield$DnD5E$getActor, goldRemaining, leftoverPP, leftoverGP, leftoverSP, leftoverCP, packName, pack, _iterator, _step, _item$externalInfo, _item$externalInfo$fv, item, _item$externalInfo$fv2, purchase, purchaseObj, itemsIdsToDelete, itemsUpdates, ownedItems;
 
         return regeneratorRuntime.wrap(function _callee$(_context) {
           while (1) {
             switch (_context.prev = _context.next) {
               case 0:
                 if (!shop.actor) {
-                  _context.next = 56;
+                  _context.next = 65;
                   break;
                 }
 
-                _context.next = 3;
+                debugger;
+                _context.next = 4;
                 return (_game$actors = game.actors) === null || _game$actors === void 0 ? void 0 : _game$actors.get(shop.actor.id);
 
-              case 3:
+              case 4:
                 actor = _context.sent;
 
                 if (!actor) {
-                  _context.next = 56;
+                  _context.next = 65;
                   break;
                 }
 
                 gpTotal = 0;
-                _context.next = 8;
+                _context.next = 9;
                 return DnD5E.getActorDetails(actor.id, []);
 
-              case 8:
+              case 9:
                 _yield$DnD5E$getActor = _context.sent;
                 gpTotal = _yield$DnD5E$getActor.gpTotal;
                 goldRemaining = gpTotal - total;
@@ -96460,73 +97028,89 @@ var _5e_DnD5E = /*#__PURE__*/function () {
                 leftoverSP = Math.trunc(goldRemaining % 1 * 10);
                 leftoverCP = Math.round(goldRemaining % 0.1 * 100);
                 packName = "dnd5e.items";
-                _context.next = 18;
+                _context.next = 19;
                 return game.packs.get(packName);
 
-              case 18:
+              case 19:
                 pack = _context.sent;
 
                 if (!(pack && pack.metadata.entity === "Item")) {
-                  _context.next = 44;
+                  _context.next = 53;
                   break;
                 }
 
                 _iterator = _createForOfIteratorHelper(shop.purchases);
-                _context.prev = 21;
+                _context.prev = 22;
 
                 _iterator.s();
 
-              case 23:
+              case 24:
                 if ((_step = _iterator.n()).done) {
-                  _context.next = 36;
+                  _context.next = 45;
                   break;
                 }
 
                 item = _step.value;
 
-                if (!((_item$externalInfo$fv = item.externalInfo.fvttInfo) !== null && _item$externalInfo$fv !== void 0 && _item$externalInfo$fv._id)) {
-                  _context.next = 34;
+                if (!((_item$externalInfo = item.externalInfo) !== null && _item$externalInfo !== void 0 && (_item$externalInfo$fv = _item$externalInfo.fvttInfo) !== null && _item$externalInfo$fv !== void 0 && _item$externalInfo$fv._id)) {
+                  _context.next = 41;
                   break;
                 }
 
-                _context.next = 28;
+                _context.next = 29;
                 return pack.getDocument((_item$externalInfo$fv2 = item.externalInfo.fvttInfo) === null || _item$externalInfo$fv2 === void 0 ? void 0 : _item$externalInfo$fv2._id);
 
-              case 28:
+              case 29:
                 purchase = _context.sent;
 
                 if (!purchase) {
-                  _context.next = 34;
+                  _context.next = 37;
                   break;
                 }
 
                 purchaseObj = purchase.toObject();
                 purchaseObj.data.quantity = item.qty;
-                _context.next = 34;
+                _context.next = 35;
                 return actor.createEmbeddedDocuments(pack.metadata.type, [purchaseObj]);
 
-              case 34:
-                _context.next = 23;
+              case 35:
+                _context.next = 39;
                 break;
 
-              case 36:
-                _context.next = 41;
+              case 37:
+                _context.next = 39;
+                return DnD5E.addPlainItem(item, actor);
+
+              case 39:
+                _context.next = 43;
                 break;
 
-              case 38:
-                _context.prev = 38;
-                _context.t0 = _context["catch"](21);
+              case 41:
+                _context.next = 43;
+                return DnD5E.addPlainItem(item, actor);
+
+              case 43:
+                _context.next = 24;
+                break;
+
+              case 45:
+                _context.next = 50;
+                break;
+
+              case 47:
+                _context.prev = 47;
+                _context.t0 = _context["catch"](22);
 
                 _iterator.e(_context.t0);
 
-              case 41:
-                _context.prev = 41;
+              case 50:
+                _context.prev = 50;
 
                 _iterator.f();
 
-                return _context.finish(41);
+                return _context.finish(50);
 
-              case 44:
+              case 53:
                 itemsIdsToDelete = [];
                 itemsUpdates = [];
                 ownedItems = lodash["compact"](shop.sales.filter(function (i) {
@@ -96552,24 +97136,24 @@ var _5e_DnD5E = /*#__PURE__*/function () {
                 });
 
                 if (!(itemsIdsToDelete.length > 0)) {
-                  _context.next = 51;
+                  _context.next = 60;
                   break;
                 }
 
-                _context.next = 51;
+                _context.next = 60;
                 return actor.deleteEmbeddedDocuments("Item", itemsIdsToDelete);
 
-              case 51:
+              case 60:
                 if (!(itemsUpdates.length > 0)) {
-                  _context.next = 54;
+                  _context.next = 63;
                   break;
                 }
 
-                _context.next = 54;
+                _context.next = 63;
                 return actor.updateEmbeddedDocuments("Item", itemsUpdates);
 
-              case 54:
-                _context.next = 56;
+              case 63:
+                _context.next = 65;
                 return actor.update({
                   "data.currency.pp": leftoverPP,
                   "data.currency.gp": leftoverGP,
@@ -96578,12 +97162,12 @@ var _5e_DnD5E = /*#__PURE__*/function () {
                   "data.currency.cp": leftoverCP
                 });
 
-              case 56:
+              case 65:
               case "end":
                 return _context.stop();
             }
           }
-        }, _callee, null, [[21, 38, 41, 44]]);
+        }, _callee, null, [[22, 47, 50, 53]]);
       }));
 
       function finalizePurchase(_x, _x2) {
@@ -96593,24 +97177,59 @@ var _5e_DnD5E = /*#__PURE__*/function () {
       return finalizePurchase;
     }()
   }, {
-    key: "getActorDetails",
+    key: "addPlainItem",
     value: function () {
-      var _getActorDetails = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee2(actorId, inventoryList) {
-        var _game$actors2;
-
-        var actor, id, name, currency, newTotalPP, newTotalGP, newTotalEP, newTotalSP, newTotalCP, gpTotal, equipment;
+      var _addPlainItem = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee2(item, actor) {
+        var fvttItem;
         return regeneratorRuntime.wrap(function _callee2$(_context2) {
           while (1) {
             switch (_context2.prev = _context2.next) {
               case 0:
-                _context2.next = 2;
+                fvttItem = getDefaultFvttItem();
+                fvttItem.name = item.name;
+                fvttItem.type = _5eInventory_getItemType(item.type);
+                fvttItem.data.description.value = item.description;
+                fvttItem.data.price = item.gpValue;
+                fvttItem.data.quantity = item.qty;
+                fvttItem.data.weight = item.weight;
+                fvttItem.data.rarity = item.rarity;
+                fvttItem.data.identified = true;
+                _context2.next = 11;
+                return actor.createEmbeddedDocuments('Item', [fvttItem]);
+
+              case 11:
+              case "end":
+                return _context2.stop();
+            }
+          }
+        }, _callee2);
+      }));
+
+      function addPlainItem(_x3, _x4) {
+        return _addPlainItem.apply(this, arguments);
+      }
+
+      return addPlainItem;
+    }()
+  }, {
+    key: "getActorDetails",
+    value: function () {
+      var _getActorDetails = _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee3(actorId, inventoryList) {
+        var _game$actors2;
+
+        var actor, id, name, currency, newTotalPP, newTotalGP, newTotalEP, newTotalSP, newTotalCP, gpTotal, equipment;
+        return regeneratorRuntime.wrap(function _callee3$(_context3) {
+          while (1) {
+            switch (_context3.prev = _context3.next) {
+              case 0:
+                _context3.next = 2;
                 return (_game$actors2 = game.actors) === null || _game$actors2 === void 0 ? void 0 : _game$actors2.get(actorId);
 
               case 2:
-                actor = _context2.sent;
+                actor = _context3.sent;
 
                 if (!actor) {
-                  _context2.next = 15;
+                  _context3.next = 15;
                   break;
                 }
 
@@ -96624,7 +97243,7 @@ var _5e_DnD5E = /*#__PURE__*/function () {
                 newTotalCP = currency.cp || 0;
                 gpTotal = newTotalPP * 10 + newTotalGP + Math.floor(newTotalEP / 5) + Math.floor(newTotalSP / 10) + Math.floor(newTotalCP / 100);
                 equipment = lodash["compact"](actor.items.filter(function (i) {
-                  return ["equipment", "weapon", "loot", "consumables", "tool", "trinket"].includes(i.type);
+                  return ["equipment", "weapon", "loot", "consumable", "tool", "trinket"].includes(i.type);
                 }).map(function (i) {
                   var item = i.toObject();
 
@@ -96646,7 +97265,7 @@ var _5e_DnD5E = /*#__PURE__*/function () {
                     return invItem;
                   }
                 }));
-                return _context2.abrupt("return", {
+                return _context3.abrupt("return", {
                   id: id,
                   name: name,
                   gpTotal: gpTotal,
@@ -96654,7 +97273,7 @@ var _5e_DnD5E = /*#__PURE__*/function () {
                 });
 
               case 15:
-                return _context2.abrupt("return", {
+                return _context3.abrupt("return", {
                   id: "",
                   name: "",
                   gpTotal: 0,
@@ -96663,13 +97282,13 @@ var _5e_DnD5E = /*#__PURE__*/function () {
 
               case 16:
               case "end":
-                return _context2.stop();
+                return _context3.stop();
             }
           }
-        }, _callee2);
+        }, _callee3);
       }));
 
-      function getActorDetails(_x3, _x4) {
+      function getActorDetails(_x5, _x6) {
         return _getActorDetails.apply(this, arguments);
       }
 
@@ -96715,6 +97334,38 @@ var equipmentShop_actions_actions = {
         commit = _ref4.commit,
         dispatch = _ref4.dispatch;
     transaction.equipment = lodash["cloneDeep"](transaction.equipment);
+
+    if (rootState.settings.settings.showAsDMGPricing) {
+      switch (transaction.equipment.rarity.toLowerCase()) {
+        case 'common':
+          // 100gp
+          transaction.equipment.gpValue = 100;
+          break;
+
+        case 'uncommon':
+          // 500gp
+          transaction.equipment.gpValue = 500;
+          break;
+
+        case 'rare':
+          // 5000gp
+          transaction.equipment.gpValue = 5000;
+          break;
+
+        case 'veryrare':
+          // 50 000gp
+          transaction.equipment.gpValue = 50000;
+          break;
+
+        case 'legendary':
+          // 500 000gp
+          transaction.equipment.gpValue = 500000;
+          break;
+
+        default:
+      }
+    }
+
     commit('buyEquipment', transaction);
     dispatch('settings/setSetting', {
       selectedEquipment: transaction.equipment
@@ -96728,6 +97379,38 @@ var equipmentShop_actions_actions = {
         commit = _ref5.commit,
         dispatch = _ref5.dispatch;
     transaction.equipment = lodash["cloneDeep"](transaction.equipment);
+
+    if (rootState.settings.settings.showAsDMGPricing) {
+      switch (transaction.equipment.rarity.toLowerCase()) {
+        case 'common':
+          // 100gp
+          transaction.equipment.gpValue = 100;
+          break;
+
+        case 'uncommon':
+          // 500gp
+          transaction.equipment.gpValue = 500;
+          break;
+
+        case 'rare':
+          // 5000gp
+          transaction.equipment.gpValue = 5000;
+          break;
+
+        case 'veryrare':
+          // 50 000gp
+          transaction.equipment.gpValue = 50000;
+          break;
+
+        case 'legendary':
+          // 500 000gp
+          transaction.equipment.gpValue = 500000;
+          break;
+
+        default:
+      }
+    }
+
     commit('sellEquipment', transaction);
     dispatch('settings/setSetting', {
       selectedEquipment: transaction.equipment
@@ -96743,94 +97426,63 @@ var equipmentShop_actions_actions = {
     transaction.equipment = lodash["cloneDeep"](transaction.equipment);
     commit('updateEquipment', transaction);
   },
-  resetShops: function resetShops(_ref7) {
+  updateActorsShop: function updateActorsShop(_ref7, actorId) {
     return _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee() {
-      var state, rootState, commit, dispatch, getters, rootGetters, lookupEquipmentList, pc, playerInfo, _iterator, _step, player, id, gpTotal, name, equipment, _yield$DnD5E$getActor, shops;
+      var state, rootState, commit, dispatch, getters, rootGetters, shops, shop, lookupEquipmentList, id, gpTotal, name, equipment, _yield$DnD5E$getActor;
 
       return regeneratorRuntime.wrap(function _callee$(_context) {
         while (1) {
           switch (_context.prev = _context.next) {
             case 0:
               state = _ref7.state, rootState = _ref7.rootState, commit = _ref7.commit, dispatch = _ref7.dispatch, getters = _ref7.getters, rootGetters = _ref7.rootGetters;
-              lookupEquipmentList = rootGetters['equipment/equipment'];
-              _context.next = 4;
-              return _5e_DnD5E.getPlayerCharacters();
+              shops = getters.getShops;
+              shop = lodash["find"](shops, function (shop) {
+                return shop.actor.id === actorId;
+              });
 
-            case 4:
-              pc = _context.sent;
-              playerInfo = [];
-              _iterator = _createForOfIteratorHelper(pc);
-              _context.prev = 7;
-
-              _iterator.s();
-
-            case 9:
-              if ((_step = _iterator.n()).done) {
-                _context.next = 22;
+              if (!shop) {
+                _context.next = 16;
                 break;
               }
 
-              player = _step.value;
+              lookupEquipmentList = rootGetters['equipment/equipment'];
               id = '', gpTotal = 0, name = '', equipment = [];
-              _context.next = 14;
-              return _5e_DnD5E.getActorDetails(player._id, lookupEquipmentList);
+              _context.next = 8;
+              return _5e_DnD5E.getActorDetails(actorId, lookupEquipmentList);
 
-            case 14:
+            case 8:
               _yield$DnD5E$getActor = _context.sent;
               id = _yield$DnD5E$getActor.id;
               name = _yield$DnD5E$getActor.name;
               gpTotal = _yield$DnD5E$getActor.gpTotal;
               equipment = _yield$DnD5E$getActor.equipment;
-              playerInfo.push({
-                id: id,
-                name: name,
-                gpTotal: gpTotal,
-                equipment: equipment
+              _context.next = 15;
+              return commit('refreshEquipment', {
+                shop: shop,
+                actorInfo: {
+                  id: id,
+                  name: name,
+                  gpTotal: gpTotal,
+                  equipment: equipment
+                }
               });
 
-            case 20:
-              _context.next = 9;
-              break;
-
-            case 22:
-              _context.next = 27;
-              break;
-
-            case 24:
-              _context.prev = 24;
-              _context.t0 = _context["catch"](7);
-
-              _iterator.e(_context.t0);
-
-            case 27:
-              _context.prev = 27;
-
-              _iterator.f();
-
-              return _context.finish(27);
-
-            case 30:
-              _context.next = 32;
-              return commit('resetShops', playerInfo);
-
-            case 32:
-              shops = getters.getShops;
+            case 15:
               dispatch('settings/setSetting', {
-                selectedEquipment: undefined,
-                selectedShop: shops[0]
+                selectedEquipment: undefined
               }, {
                 root: true
               });
 
-            case 34:
+            case 16:
             case "end":
               return _context.stop();
           }
         }
-      }, _callee, null, [[7, 24, 27, 30]]);
+      }, _callee);
     }))();
   },
-  resetShop: function resetShop(_ref8, shop) {
+  refreshEquipment: function refreshEquipment(_ref8, shop) {
     return _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee2() {
       var state, rootState, commit, dispatch, rootGetters, id, gpTotal, name, equipment, lookupEquipmentList, _yield$DnD5E$getActor2;
 
@@ -96839,18 +97491,162 @@ var equipmentShop_actions_actions = {
           switch (_context2.prev = _context2.next) {
             case 0:
               state = _ref8.state, rootState = _ref8.rootState, commit = _ref8.commit, dispatch = _ref8.dispatch, rootGetters = _ref8.rootGetters;
+
+              if (!(shop.actor !== undefined)) {
+                _context2.next = 14;
+                break;
+              }
+
               id = '', gpTotal = 0, name = '', equipment = [];
               lookupEquipmentList = rootGetters['equipment/equipment'];
-              _context2.next = 5;
+              _context2.next = 6;
               return _5e_DnD5E.getActorDetails(shop.actor.id, lookupEquipmentList);
 
-            case 5:
+            case 6:
               _yield$DnD5E$getActor2 = _context2.sent;
               id = _yield$DnD5E$getActor2.id;
               name = _yield$DnD5E$getActor2.name;
               gpTotal = _yield$DnD5E$getActor2.gpTotal;
               equipment = _yield$DnD5E$getActor2.equipment;
-              _context2.next = 12;
+              _context2.next = 13;
+              return commit('refreshEquipment', {
+                shop: shop,
+                actorInfo: {
+                  id: id,
+                  name: name,
+                  gpTotal: gpTotal,
+                  equipment: equipment
+                }
+              });
+
+            case 13:
+              dispatch('settings/setSetting', {
+                selectedEquipment: undefined
+              }, {
+                root: true
+              });
+
+            case 14:
+            case "end":
+              return _context2.stop();
+          }
+        }
+      }, _callee2);
+    }))();
+  },
+  resetShops: function resetShops(_ref9) {
+    return _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee3() {
+      var state, rootState, commit, dispatch, getters, rootGetters, lookupEquipmentList, pc, playerInfo, _iterator, _step, player, id, gpTotal, name, equipment, _yield$DnD5E$getActor3, shops;
+
+      return regeneratorRuntime.wrap(function _callee3$(_context3) {
+        while (1) {
+          switch (_context3.prev = _context3.next) {
+            case 0:
+              state = _ref9.state, rootState = _ref9.rootState, commit = _ref9.commit, dispatch = _ref9.dispatch, getters = _ref9.getters, rootGetters = _ref9.rootGetters;
+              lookupEquipmentList = rootGetters['equipment/equipment'];
+              _context3.next = 4;
+              return _5e_DnD5E.getPlayerCharacters();
+
+            case 4:
+              pc = _context3.sent;
+              playerInfo = [];
+              _iterator = _createForOfIteratorHelper(pc);
+              _context3.prev = 7;
+
+              _iterator.s();
+
+            case 9:
+              if ((_step = _iterator.n()).done) {
+                _context3.next = 22;
+                break;
+              }
+
+              player = _step.value;
+              id = '', gpTotal = 0, name = '', equipment = [];
+              _context3.next = 14;
+              return _5e_DnD5E.getActorDetails(player._id, lookupEquipmentList);
+
+            case 14:
+              _yield$DnD5E$getActor3 = _context3.sent;
+              id = _yield$DnD5E$getActor3.id;
+              name = _yield$DnD5E$getActor3.name;
+              gpTotal = _yield$DnD5E$getActor3.gpTotal;
+              equipment = _yield$DnD5E$getActor3.equipment;
+              playerInfo.push({
+                id: id,
+                name: name,
+                gpTotal: gpTotal,
+                equipment: equipment
+              });
+
+            case 20:
+              _context3.next = 9;
+              break;
+
+            case 22:
+              _context3.next = 27;
+              break;
+
+            case 24:
+              _context3.prev = 24;
+              _context3.t0 = _context3["catch"](7);
+
+              _iterator.e(_context3.t0);
+
+            case 27:
+              _context3.prev = 27;
+
+              _iterator.f();
+
+              return _context3.finish(27);
+
+            case 30:
+              if (!(playerInfo.length > 0)) {
+                _context3.next = 33;
+                break;
+              }
+
+              _context3.next = 33;
+              return commit('resetShops', playerInfo);
+
+            case 33:
+              shops = getters.getShops;
+              dispatch('settings/setSetting', {
+                selectedEquipment: undefined,
+                selectedShop: shops[0]
+              }, {
+                root: true
+              });
+
+            case 35:
+            case "end":
+              return _context3.stop();
+          }
+        }
+      }, _callee3, null, [[7, 24, 27, 30]]);
+    }))();
+  },
+  resetShop: function resetShop(_ref10, shop) {
+    return _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee4() {
+      var state, rootState, commit, dispatch, rootGetters, id, gpTotal, name, equipment, lookupEquipmentList, _yield$DnD5E$getActor4;
+
+      return regeneratorRuntime.wrap(function _callee4$(_context4) {
+        while (1) {
+          switch (_context4.prev = _context4.next) {
+            case 0:
+              state = _ref10.state, rootState = _ref10.rootState, commit = _ref10.commit, dispatch = _ref10.dispatch, rootGetters = _ref10.rootGetters;
+              id = '', gpTotal = 0, name = '', equipment = [];
+              lookupEquipmentList = rootGetters['equipment/equipment'];
+              _context4.next = 5;
+              return _5e_DnD5E.getActorDetails(shop.actor.id, lookupEquipmentList);
+
+            case 5:
+              _yield$DnD5E$getActor4 = _context4.sent;
+              id = _yield$DnD5E$getActor4.id;
+              name = _yield$DnD5E$getActor4.name;
+              gpTotal = _yield$DnD5E$getActor4.gpTotal;
+              equipment = _yield$DnD5E$getActor4.equipment;
+              _context4.next = 12;
               return commit('resetShop', {
                 shop: shop,
                 actorInfo: {
@@ -96870,38 +97666,38 @@ var equipmentShop_actions_actions = {
 
             case 13:
             case "end":
-              return _context2.stop();
+              return _context4.stop();
           }
         }
-      }, _callee2);
+      }, _callee4);
     }))();
   },
-  finalizePurchase: function finalizePurchase(_ref9, shop) {
-    return _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee3() {
-      var state, commit, dispatch, getters, rootState, rootGetters, total, lookupEquipmentList, id, gpTotal, name, equipment, _yield$DnD5E$getActor3;
+  finalizePurchase: function finalizePurchase(_ref11, shop) {
+    return _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee5() {
+      var state, commit, dispatch, getters, rootState, rootGetters, total, lookupEquipmentList, id, gpTotal, name, equipment, _yield$DnD5E$getActor5;
 
-      return regeneratorRuntime.wrap(function _callee3$(_context3) {
+      return regeneratorRuntime.wrap(function _callee5$(_context5) {
         while (1) {
-          switch (_context3.prev = _context3.next) {
+          switch (_context5.prev = _context5.next) {
             case 0:
-              state = _ref9.state, commit = _ref9.commit, dispatch = _ref9.dispatch, getters = _ref9.getters, rootState = _ref9.rootState, rootGetters = _ref9.rootGetters;
+              state = _ref11.state, commit = _ref11.commit, dispatch = _ref11.dispatch, getters = _ref11.getters, rootState = _ref11.rootState, rootGetters = _ref11.rootGetters;
               total = getters.getShopTotal(shop);
               lookupEquipmentList = rootGetters['equipment/equipment'];
-              _context3.next = 5;
+              _context5.next = 5;
               return _5e_DnD5E.finalizePurchase(shop, total);
 
             case 5:
               id = '', gpTotal = 0, name = '', equipment = [];
-              _context3.next = 8;
+              _context5.next = 8;
               return _5e_DnD5E.getActorDetails(shop.actor.id, lookupEquipmentList);
 
             case 8:
-              _yield$DnD5E$getActor3 = _context3.sent;
-              id = _yield$DnD5E$getActor3.id;
-              name = _yield$DnD5E$getActor3.name;
-              gpTotal = _yield$DnD5E$getActor3.gpTotal;
-              equipment = _yield$DnD5E$getActor3.equipment;
-              _context3.next = 15;
+              _yield$DnD5E$getActor5 = _context5.sent;
+              id = _yield$DnD5E$getActor5.id;
+              name = _yield$DnD5E$getActor5.name;
+              gpTotal = _yield$DnD5E$getActor5.gpTotal;
+              equipment = _yield$DnD5E$getActor5.equipment;
+              _context5.next = 15;
               return commit('resetShop', {
                 shop: shop,
                 actorInfo: {
@@ -96921,10 +97717,10 @@ var equipmentShop_actions_actions = {
 
             case 16:
             case "end":
-              return _context3.stop();
+              return _context5.stop();
           }
         }
-      }, _callee3);
+      }, _callee5);
     }))();
   }
 };
@@ -96984,6 +97780,10 @@ var equipmentShop_getters_getters = {
 };
 /* harmony default export */ var equipmentShop_getters = (equipmentShop_getters_getters);
 // CONCATENATED MODULE: ./src/store/equipmentShop/mutations.ts
+
+
+
+
 
 
 
@@ -97210,6 +98010,62 @@ var equipmentShop_mutations_mutation = {
           }
         }
       }, _callee2);
+    }))();
+  },
+  refreshEquipment: function refreshEquipment(state, refresh) {
+    return _asyncToGenerator( /*#__PURE__*/regeneratorRuntime.mark(function _callee3() {
+      var shopIndex, shop, salesToVoid, ownedItems;
+      return regeneratorRuntime.wrap(function _callee3$(_context3) {
+        while (1) {
+          switch (_context3.prev = _context3.next) {
+            case 0:
+              shopIndex = lodash["findIndex"](state.shops, {
+                id: refresh.shop.id
+              });
+
+              if (shopIndex == -1) {
+                console.error("Shop Not Found ".concat(refresh.shop.id));
+              } else {
+                shop = state.shops[shopIndex];
+                shop.inventorySales = [];
+
+                if (refresh.shop.actor) {
+                  shop.inventorySales = refresh.actorInfo.equipment;
+                  salesToVoid = [];
+                  ownedItems = lodash["compact"](shop.sales.filter(function (i) {
+                    var _i$externalInfo$fvttI;
+
+                    return !lodash["isEmpty"]((_i$externalInfo$fvttI = i.externalInfo.fvttInfo) === null || _i$externalInfo$fvttI === void 0 ? void 0 : _i$externalInfo$fvttI._id);
+                  }));
+                  ownedItems.forEach(function (itemBeingSold) {
+                    var inventoryIndex = lodash["findIndex"](shop.inventorySales, {
+                      id: itemBeingSold.id
+                    });
+
+                    if (inventoryIndex !== -1) {
+                      var invEquip = shop.inventorySales[inventoryIndex];
+                      shop.inventorySales.splice(inventoryIndex, 1);
+                      invEquip.qty -= itemBeingSold.qty;
+
+                      if (invEquip.qty > 0) {
+                        state.shops[shopIndex].inventorySales.push(invEquip);
+                      } else if (invEquip.qty < 0) {
+                        salesToVoid.push(itemBeingSold.id);
+                      }
+                    }
+                  });
+                  shop.sales = lodash["compact"](shop.sales.filter(function (i) {
+                    return !salesToVoid.includes(i.id);
+                  }));
+                }
+              }
+
+            case 2:
+            case "end":
+              return _context3.stop();
+          }
+        }
+      }, _callee3);
     }))();
   },
   setMarkUps: function setMarkUps(state, transaction) {

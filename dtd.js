@@ -61,7 +61,6 @@ class DTDShop {
 
 
     static run(message, chatMessageData, options, userID) {
-        debugger;
         const match = message.data.content.toLowerCase().match(/dtd-shop/);
         if (match && game.user.isGM) {
             const d = new Dialog({
@@ -71,7 +70,7 @@ class DTDShop {
 					<script src="modules/dtd-shop/dist/dtdShopV3.umd.js"></script>
 				</div>`,
                 buttons: {}
-		}, {height: 840, width: 1300, resizable: false, popOutModuleDisable: true}).render(true);
+		}, {height: 840, width: 1300, resizable: true, popOutModuleDisable: true}).render(true);
             // Auto resize after 2 seconds
             setTimeout(() => {			
 				d.setPosition();				
